@@ -1,6 +1,15 @@
-
-
-# Generative Agents: Interactive Simulacra of Human Behavior 
+# Simulation of Coding Interview Using Generative Agents
+### 📍Situation : Coding interview will be held on February 13th, 2023, from *2 PM to 3 PM* at Hobbs Cafe
+<div style="text-align: center;">
+  <img src="./exp4-clip-for-gif.gif" alt="exp4-clip-for-gif" style="width: 80%;">
+</div>
+  
+- Based on simulation `base_the_ville_isabella_maria_klaus` 
+- Compressed storage and got demo from [http://localhost:8000/demo/exp4/1/10/#](http://localhost:8000/demo/exp4/1/10/#).
+- This codes are based on [Generative Agents: Interactive Simulacra of Human Behavior](https://github.com/joonspk-research/generative_agents).
+- Full video for the sample coding interview simulation can be found [here](https://drive.google.com/file/d/1QnnwhwCTH9vVQD7i5HNRB9BmYRvy78i6/view?usp=sharing).
+  
+## Generative Agents: Interactive Simulacra of Human Behavior 
 
 <p align="center" width="100%">
 <img src="cover.png" alt="Smallville" style="width: 80%; min-width: 300px; display: block; margin: auto;">

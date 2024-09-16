@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "taking a break for lunch @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        77,
+        30
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        78,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "leading the coding interview with Isabella (conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 14:01:20"
+  }
+}

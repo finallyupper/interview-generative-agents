@@ -92,10 +92,19 @@
 	let movement_target = {};
 	let all_movement = {{ all_movement|safe }};
 
-  let start_datetime =new Date(Date.parse("{{start_datetime}}"));
-  var datetime_options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
- 	document.getElementById("game-time-content").innerHTML = start_datetime.toLocaleTimeString("en-US", datetime_options);
- 	
+	// let start_datetime =new Date(Date.parse("{{start_datetime}}"));
+	// console.log("⭐Initial start_datetime:", start_datetime);  // start_datetime 초기값 확인
+	
+	// 13:45로 시작 시간 고정 (한국 표준시 기준)
+	let start_datetime = new Date();
+	start_datetime.setHours(13);
+	start_datetime.setMinutes(45);
+	start_datetime.setSeconds(0);
+	console.log("⭐ Fixed start_datetime at 13:45 (KST):", start_datetime);
+
+	var datetime_options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+		document.getElementById("game-time-content").innerHTML = start_datetime.toLocaleTimeString("en-US", datetime_options);
+		
 
 	// ###########################################################################
 	// ENGINE

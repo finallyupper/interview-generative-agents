@@ -397,6 +397,11 @@ class ReverieServer:
           # {"persona": {"Maria Lopez": {"movement": [58, 9]}},
           #  "persona": {"Klaus Mueller": {"movement": [38, 12]}}, 
           #  "meta": {curr_time: <datetime>}}
+
+          #Modified(Yoojin)
+          movementFolder = f"{sim_folder}/movement"
+          if not os.path.exists(movementFolder):
+            os.mkdir(movementFolder)
           curr_move_file = f"{sim_folder}/movement/{self.step}.json"
           with open(curr_move_file, "w") as outfile: 
             outfile.write(json.dumps(movements, indent=2))
@@ -588,6 +593,8 @@ class ReverieServer:
             for whisper in whispers: 
               clean_whispers += [[agent_name, whisper]]
 
+          for persona_name, persona in self.personas.items(): #Modified(Yoojin)
+            persona.scratch.curr_time = self.curr_time
           load_history_via_whisper(self.personas, clean_whispers)
 
         print (ret_str)

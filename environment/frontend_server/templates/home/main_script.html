@@ -1,4 +1,4 @@
-{% load staticfiles %}
+{% load static %}
 
 <div id="step" style="display:none">{{step}}</div>
 <div id="sim_code" style="display:none">{{sim_code}}</div>
@@ -178,8 +178,19 @@
 	  // Joon: Technically, I think this guy had the best tutorial for atlas: 
 	  //       https://www.youtube.com/watch?v=fdXcD9X4NrQ&ab_channel=MorganPage
 	  this.load.atlas("atlas", 
-	                  "https://mikewesthad.github.io/phaser-3-tilemap-blog-posts/post-1/assets/atlas/atlas.png", 
-	                  "https://mikewesthad.github.io/phaser-3-tilemap-blog-posts/post-1/assets/atlas/atlas.json");
+	                  "{% static 'assets/characters/Isabella_Rodriguez.png' %}",
+						"{% static 'assets/characters/atlas.json' %}",);
+		this.load.atlas("Isabella_Rodriguez", 
+	  					"{% static 'assets/characters/Isabella_Rodriguez.png' %}",
+						"{% static 'assets/characters/Isabella_Rodriguez.json' %}",);
+      this.load.atlas("Maria_Lopez", 
+	  					"{% static 'assets/characters/Maria_Lopez.png' %}",
+						"{% static 'assets/characters/Maria_Lopez.json' %}",);
+	  this.load.atlas("Klaus_Mueller", 
+	  					"{% static 'assets/characters/Klaus_Mueller.png' %}",
+						"{% static 'assets/characters/Klaus_Mueller.json' %}",);
+						
+	  	
 	}
 
 	function create() {  
@@ -234,13 +245,6 @@
 	  foregroundL2Layer.setDepth(2);
 
 	  const collisionsLayer = map.createLayer("Collisions", collisions, 0, 0);
-	  // const groundLayer = map.createLayer("Ground", walls, 0, 0);
-	  // const indoorGroundLayer = map.createLayer("Indoor Ground", walls, 0, 0);
-	  // const wallsLayer = map.createLayer("Walls", walls, 0, 0);
-	  // const interiorsLayer = map.createLayer("Furnitures", interiors, 0, 0);
-	  // const builtInLayer = map.createLayer("Built-ins", interiors, 0, 0);
-	  // const appliancesLayer = map.createLayer("Appliances", interiors, 0, 0);
-	  // const foregroundLayer = map.createLayer("Foreground", interiors, 0, 0);
 
 	  // Joon : This is where you want to create a custom field for the tileset
 	  //        in Tiled. Take a look at this guy's tutorial: 
@@ -266,7 +270,7 @@
 	  // The image  used for the sprite has a bit of whitespace, so I'm using 
 	  // setSize & setOffset to control the size of the player's body.
 	  player = this.physics.add.
-	                sprite(800, 288, "atlas", "misa-front").
+	                sprite(800, 288,"atlas", "down"). // 800, 288
 	                setSize(30, 40).
 	                setOffset(0, 0);
 	  player.setDepth(-1);
@@ -282,8 +286,11 @@
 	    let persona_name = Object.keys(spawn_tile_loc)[i];
 	    let start_pos = [spawn_tile_loc[persona_name][0] * tile_width + tile_width / 2, 
 	                     spawn_tile_loc[persona_name][1] * tile_width + tile_width];
+		// Assuming persona_name matches the image file name (e.g., 'Klaus_Mueller')
+		let image_key = persona_name.replace(/ /g, '_'); // Converts spaces to underscores if needed
+
 	    let new_sprite = this.physics.add
-	                         .sprite(start_pos[0], start_pos[1], "atlas", "misa-front")
+							 .sprite(start_pos[0], start_pos[1], image_key, `${image_key}-down`)
 	                         .setSize(30, 40)
 	                         .setOffset(0, 32); // DEBUG 1 --- I added 32 offset on Dec 29. 
 	    // Here, we are creating the persona and its pronunciatio sprites.
@@ -303,29 +310,39 @@
 	  // Create the player's walking animations from the texture atlas. These are
 	  // stored in the global animation manager so any sprite can access them.
 	  const anims = this.anims;
-	  anims.create({
-	    key: "misa-left-walk",
-	    frames: anims.generateFrameNames("atlas", { prefix: "misa-left-walk.", start: 0, end: 3, zeroPad: 3 }),
-	    frameRate: 4,
-	    repeat: -1 });
+		for (let i=0; i<Object.keys(persona_names).length; i++) { 
+			let persona_name = Object.keys(persona_names)[i];
+			let persona_name_key = persona_name.replace(/ /g, '_');
+			let left_walk_name = persona_name_key + "-left-walk";
+			let right_walk_name = persona_name_key + "-right-walk";
+			let down_walk_name = persona_name_key + "-down-walk";
+			let up_walk_name = persona_name_key + "-up-walk";
 
-	  anims.create({
-	    key: "misa-right-walk",
-	    frames: anims.generateFrameNames("atlas", { prefix: "misa-right-walk.", start: 0, end: 3, zeroPad: 3 }),
-	    frameRate: 4,
-	    repeat: -1 });
+			console.log(persona_name_key, left_walk_name, "DEBUG")//Klaus Mueller Klaus Mueller-left-walk DEBUG
+		  anims.create({
+		    key: left_walk_name,
+		    frames: anims.generateFrameNames(persona_name_key, { prefix: `${persona_name_key}-left-walk.`, start: 0, end: 3, zeroPad: 3 }),
+		    frameRate: 4,
+		    repeat: -1 });
 
-	  anims.create({
-	    key: "misa-front-walk",
-	    frames: anims.generateFrameNames("atlas", { prefix: "misa-front-walk.", start: 0, end: 3, zeroPad: 3 }),
-	    frameRate: 4,
-	    repeat: -1 });
+		  anims.create({
+		    key: right_walk_name,
+		    frames: anims.generateFrameNames(persona_name_key, { prefix: `${persona_name_key}-right-walk.`, start: 0, end: 3, zeroPad: 3 }),
+		    frameRate: 4,
+		    repeat: -1 });
 
-	  anims.create({
-	    key: "misa-back-walk",
-	    frames: anims.generateFrameNames("atlas", { prefix: "misa-back-walk.", start: 0, end: 3, zeroPad: 3 }),
-	    frameRate: 4,
-	    repeat: -1 });
+		  anims.create({
+		    key: down_walk_name,
+		    frames: anims.generateFrameNames(persona_name_key, { prefix: `${persona_name_key}-down-walk.`, start: 0, end: 3, zeroPad: 3 }),
+		    frameRate: 4,
+		    repeat: -1 });
+
+		  anims.create({
+		    key: up_walk_name,
+		    frames: anims.generateFrameNames(persona_name_key, { prefix: `${persona_name_key}-up-walk.`, start: 0, end: 3, zeroPad: 3 }),
+		    frameRate: 4,
+		    repeat: -1 });
+	  }
 	}
 
 
@@ -431,9 +448,11 @@
 	    // (or some personas might not move if they choose not to). 
 	    // The execute_count_max is computed by tile_width/movement_speed, which
 	    // defines a one step sequence in this world. 
-	    document.getElementById("game-time-content").innerHTML = execute_movement["meta"]["curr_time"];
+	    
+		document.getElementById("game-time-content").innerHTML = execute_movement["meta"]["curr_time"];
 	    for (let i=0; i<Object.keys(personas).length; i++) {
 	      let curr_persona_name = Object.keys(personas)[i];
+		  let curr_persona_key = curr_persona_name.replace(/ /g,"_");
 	      let curr_persona = personas[curr_persona_name];
 	      let curr_pronunciatio = pronunciatios[Object.keys(personas)[i]];
 
@@ -454,7 +473,6 @@
 	        pronunciatios[curr_persona_name].setText(initials + ": " + pronunciatio_content);
 	      }
 
-	      console.log(curr_persona_name);
 	      if (execute_count > 0) {
 	        if (curr_persona.body.x < movement_target[curr_persona_name][0]) {
 	          curr_persona.body.x += movement_speed; 
@@ -480,25 +498,35 @@
 	        	anims_direction = "";
 	        }
 
-	        curr_pronunciatio.x = curr_persona.body.x - 6; 
+	      curr_pronunciatio.x = curr_persona.body.x - 6; 
           curr_pronunciatio.y = curr_persona.body.y - 42 - 32; // DEBUG 1 --- I added 32 offset on Dec 29. 
-
+		  
+		  let left_walk_name = curr_persona_key + "-left-walk";
+		  let right_walk_name = curr_persona_key + "-right-walk";
+		  let down_walk_name = curr_persona_key + "-down-walk";
+		  let up_walk_name = curr_persona_key + "-up-walk";
+		  console.log("curr_persona_name:", curr_persona_name);  // curr_persona_name 출력
+		  console.log("curr_persona_key:", curr_persona_key);
           if (anims_direction == "l") {
-			      curr_persona.anims.play("misa-left-walk", true);
+			      curr_persona.anims.play(left_walk_name, true);
 			    } else if (anims_direction == "r") {
-			      curr_persona.anims.play("misa-right-walk", true);
+			      curr_persona.anims.play(right_walk_name, true);
 			    } else if (anims_direction == "u") {
-			      curr_persona.anims.play("misa-back-walk", true);
+			      curr_persona.anims.play(up_walk_name, true);
 			    } else if (anims_direction == "d") {
-			      curr_persona.anims.play("misa-front-walk", true);
-			    } else {
+			      curr_persona.anims.play(down_walk_name, true);
+			    } 
+		  else {
 			      curr_persona.anims.stop();
 
 			      // If we were moving, pick an idle frame to use
-			      if (pre_anims_direction_dict[curr_persona_name] == "l") curr_persona.setTexture("atlas", "misa-left");else
-			      if (pre_anims_direction_dict[curr_persona_name] == "r") curr_persona.setTexture("atlas", "misa-right");else
-			      if (pre_anims_direction_dict[curr_persona_name] == "u") curr_persona.setTexture("atlas", "misa-back");else
-			      if (pre_anims_direction_dict[curr_persona_name] == "d") curr_persona.setTexture("atlas", "misa-front");
+				  //DEBUG(Yoojin) 
+				  console.log("⭐ curr_persona_key:", curr_persona_key);  // curr_persona_key: Maria_Lopez
+				  console.log("☑️ pre_anims_direction_dict:", pre_anims_direction_dict); // {Isabella Rodriguez: 'd', Klaus Mueller: 'l', Maria Lopez: 'u'}
+			      if (pre_anims_direction_dict[curr_persona_name] == "l") curr_persona.setTexture(curr_persona_key, `${curr_persona_key}-left`);else
+			      if (pre_anims_direction_dict[curr_persona_name] == "r") curr_persona.setTexture(curr_persona_key, `${curr_persona_key}-right`);else
+			      if (pre_anims_direction_dict[curr_persona_name] == "u") curr_persona.setTexture(curr_persona_key, `${curr_persona_key}-down`);else
+			      if (pre_anims_direction_dict[curr_persona_name] == "d") curr_persona.setTexture(curr_persona_key, `${curr_persona_key}-up`);
 			    };
 
 	      } 
@@ -551,10 +579,4 @@
 	var play_button=document.getElementById("play_button");
 	var pause_button=document.getElementById("pause_button");
 </script>
-
-
-
-
-
-
 

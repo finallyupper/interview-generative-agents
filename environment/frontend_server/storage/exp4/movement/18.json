@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "taking a break for lunch @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        88,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Maria, how are you doing today? Are you all set for the interview with Isabella?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus, I'm doing well, thank you. I'm all set for the interview with Isabella. Just finishing up some last-minute preparations."
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear, Maria. Is there anything specific you need help with or any additional information you require before the interview starts?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate the offer. I think I have everything I need, but I will let you know if anything comes up during the interview."
+        ],
+        [
+          "Klaus Mueller",
+          "I just wanted to check if you need any additional information or assistance during the interview. Feel free to reach out to me if you need any help."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I will definitely reach out if I need any assistance during the interview."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, thank you for letting me know. I'll make sure everything runs smoothly with Isabella. Just focus on your part and let me know if you need anything during the process."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate your support. I will focus on conducting the coding assessment with Isabella now."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, thank you for letting me know. I'll make sure everything runs smoothly with Isabella. Just focus on your part and let me know if you need anything during the process."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you Klaus, I'm looking forward to the interview with Isabella. I'll let you know if I need any assistance during the process."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'm glad you feel prepared for the interview. Just let me know if you need any assistance during the process. Good luck with the coding assessment!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate your support. I will focus on conducting the coding assessment with Isabella now."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'm glad you feel prepared for the interview. Just let me know if you need any assistance during the process. Good luck with the coding assessment!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate your support. I will focus on conducting the coding assessment with Isabella now."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'm glad you feel prepared for the interview. Just let me know if you need any assistance during the process. Good luck with the coding assessment!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate your support. I will focus on conducting the coding assessment with Isabella now."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        88,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Maria, how are you doing today? Are you all set for the interview with Isabella?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus, I'm doing well, thank you. I'm all set for the interview with Isabella. Just finishing up some last-minute preparations."
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear, Maria. Is there anything specific you need help with or any additional information you require before the interview starts?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate the offer. I think I have everything I need, but I will let you know if anything comes up during the interview."
+        ],
+        [
+          "Klaus Mueller",
+          "I just wanted to check if you need any additional information or assistance during the interview. Feel free to reach out to me if you need any help."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I will definitely reach out if I need any assistance during the interview."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, thank you for letting me know. I'll make sure everything runs smoothly with Isabella. Just focus on your part and let me know if you need anything during the process."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate your support. I will focus on conducting the coding assessment with Isabella now."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, thank you for letting me know. I'll make sure everything runs smoothly with Isabella. Just focus on your part and let me know if you need anything during the process."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you Klaus, I'm looking forward to the interview with Isabella. I'll let you know if I need any assistance during the process."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'm glad you feel prepared for the interview. Just let me know if you need any assistance during the process. Good luck with the coding assessment!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate your support. I will focus on conducting the coding assessment with Isabella now."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'm glad you feel prepared for the interview. Just let me know if you need any assistance during the process. Good luck with the coding assessment!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate your support. I will focus on conducting the coding assessment with Isabella now."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'm glad you feel prepared for the interview. Just let me know if you need any assistance during the process. Good luck with the coding assessment!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate your support. I will focus on conducting the coding assessment with Isabella now."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 13:51:00"
+  }
+}

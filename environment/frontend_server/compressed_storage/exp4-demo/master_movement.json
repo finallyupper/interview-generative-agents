@@ -1,0 +1,4517 @@
+{
+  "0": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        14
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "taking a break for lunch @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        88,
+        21
+      ],
+      "pronunciatio": "\ud83d\udc69\u200d\ud83d\udcbc",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        89,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Maria, how are you doing today? Are you all set for the interview with Isabella?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus, I'm doing well, thank you. I'm all set for the interview with Isabella. Just finishing up some last-minute preparations."
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear, Maria. Is there anything specific you need help with or any additional information you require before the interview starts?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate the offer. I think I have everything I need, but I will let you know if anything comes up during the interview."
+        ],
+        [
+          "Klaus Mueller",
+          "I just wanted to check if you need any additional information or assistance during the interview. Feel free to reach out to me if you need any help."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I will definitely reach out if I need any assistance during the interview."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, thank you for letting me know. I'll make sure everything runs smoothly with Isabella. Just focus on your part and let me know if you need anything during the process."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate your support. I will focus on conducting the coding assessment with Isabella now."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, thank you for letting me know. I'll make sure everything runs smoothly with Isabella. Just focus on your part and let me know if you need anything during the process."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you Klaus, I'm looking forward to the interview with Isabella. I'll let you know if I need any assistance during the process."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'm glad you feel prepared for the interview. Just let me know if you need any assistance during the process. Good luck with the coding assessment!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate your support. I will focus on conducting the coding assessment with Isabella now."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'm glad you feel prepared for the interview. Just let me know if you need any assistance during the process. Good luck with the coding assessment!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate your support. I will focus on conducting the coding assessment with Isabella now."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'm glad you feel prepared for the interview. Just let me know if you need any assistance during the process. Good luck with the coding assessment!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate your support. I will focus on conducting the coding assessment with Isabella now."
+        ]
+      ]
+    }
+  },
+  "1": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        14
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "taking a break for lunch @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        88,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Maria, how are you doing today? Are you all set for the interview with Isabella?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus, I'm doing well, thank you. I'm all set for the interview with Isabella. Just finishing up some last-minute preparations."
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear, Maria. Is there anything specific you need help with or any additional information you require before the interview starts?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate the offer. I think I have everything I need, but I will let you know if anything comes up during the interview."
+        ],
+        [
+          "Klaus Mueller",
+          "I just wanted to check if you need any additional information or assistance during the interview. Feel free to reach out to me if you need any help."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I will definitely reach out if I need any assistance during the interview."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, thank you for letting me know. I'll make sure everything runs smoothly with Isabella. Just focus on your part and let me know if you need anything during the process."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate your support. I will focus on conducting the coding assessment with Isabella now."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, thank you for letting me know. I'll make sure everything runs smoothly with Isabella. Just focus on your part and let me know if you need anything during the process."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you Klaus, I'm looking forward to the interview with Isabella. I'll let you know if I need any assistance during the process."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'm glad you feel prepared for the interview. Just let me know if you need any assistance during the process. Good luck with the coding assessment!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate your support. I will focus on conducting the coding assessment with Isabella now."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'm glad you feel prepared for the interview. Just let me know if you need any assistance during the process. Good luck with the coding assessment!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate your support. I will focus on conducting the coding assessment with Isabella now."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'm glad you feel prepared for the interview. Just let me know if you need any assistance during the process. Good luck with the coding assessment!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate your support. I will focus on conducting the coding assessment with Isabella now."
+        ]
+      ]
+    },
+    "Klaus Mueller": {
+      "movement": [
+        88,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Klaus Mueller",
+          "Hey Maria, how are you doing today? Are you all set for the interview with Isabella?"
+        ],
+        [
+          "Maria Lopez",
+          "Hey Klaus, I'm doing well, thank you. I'm all set for the interview with Isabella. Just finishing up some last-minute preparations."
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear, Maria. Is there anything specific you need help with or any additional information you require before the interview starts?"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate the offer. I think I have everything I need, but I will let you know if anything comes up during the interview."
+        ],
+        [
+          "Klaus Mueller",
+          "I just wanted to check if you need any additional information or assistance during the interview. Feel free to reach out to me if you need any help."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I will definitely reach out if I need any assistance during the interview."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, thank you for letting me know. I'll make sure everything runs smoothly with Isabella. Just focus on your part and let me know if you need anything during the process."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate your support. I will focus on conducting the coding assessment with Isabella now."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, thank you for letting me know. I'll make sure everything runs smoothly with Isabella. Just focus on your part and let me know if you need anything during the process."
+        ],
+        [
+          "Maria Lopez",
+          "Thank you Klaus, I'm looking forward to the interview with Isabella. I'll let you know if I need any assistance during the process."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'm glad you feel prepared for the interview. Just let me know if you need any assistance during the process. Good luck with the coding assessment!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate your support. I will focus on conducting the coding assessment with Isabella now."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'm glad you feel prepared for the interview. Just let me know if you need any assistance during the process. Good luck with the coding assessment!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate your support. I will focus on conducting the coding assessment with Isabella now."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, I'm glad you feel prepared for the interview. Just let me know if you need any assistance during the process. Good luck with the coding assessment!"
+        ],
+        [
+          "Maria Lopez",
+          "Thank you, Klaus. I appreciate your support. I will focus on conducting the coding assessment with Isabella now."
+        ]
+      ]
+    }
+  },
+  "2": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "taking a break for lunch @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "3": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        14
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "taking a break for lunch @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "4": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        14
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "taking a break for lunch @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "5": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        14
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "taking a break for lunch @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "6": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        15
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "taking a break for lunch @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "7": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        16
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "taking a break for lunch @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "8": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        17
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "taking a break for lunch @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "9": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        18
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "taking a break for lunch @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "10": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "taking a break for lunch @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "11": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "taking a break for lunch @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "12": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "taking a break for lunch @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "13": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "taking a break for lunch @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "14": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "taking a break for lunch @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "15": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "taking a break for lunch @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "16": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "taking a break for lunch @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "17": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        21
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "taking a break for lunch @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "18": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciatio": "\ud83c\udf74",
+      "description": "taking a break for lunch @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "19": {},
+  "20": {},
+  "21": {},
+  "22": {},
+  "23": {},
+  "24": {},
+  "25": {},
+  "26": {},
+  "27": {},
+  "28": {},
+  "29": {},
+  "30": {
+    "Maria Lopez": {
+      "movement": [
+        88,
+        22
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        88,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "leading the coding interview with Isabella (conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "31": {
+    "Maria Lopez": {
+      "movement": [
+        88,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        88,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "leading the coding interview with Isabella (conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "32": {
+    "Maria Lopez": {
+      "movement": [
+        88,
+        24
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        88,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "leading the coding interview with Isabella (conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "33": {
+    "Maria Lopez": {
+      "movement": [
+        87,
+        24
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        88,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "leading the coding interview with Isabella (conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "34": {
+    "Maria Lopez": {
+      "movement": [
+        87,
+        25
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        87,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "leading the coding interview with Isabella (conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "35": {
+    "Maria Lopez": {
+      "movement": [
+        87,
+        26
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        87,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "leading the coding interview with Isabella (conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "36": {
+    "Maria Lopez": {
+      "movement": [
+        87,
+        27
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        87,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "leading the coding interview with Isabella (conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "37": {
+    "Maria Lopez": {
+      "movement": [
+        87,
+        28
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        87,
+        27
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "leading the coding interview with Isabella (conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "38": {
+    "Maria Lopez": {
+      "movement": [
+        87,
+        29
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        87,
+        28
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "leading the coding interview with Isabella (conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "39": {
+    "Maria Lopez": {
+      "movement": [
+        86,
+        29
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        87,
+        29
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "leading the coding interview with Isabella (conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "40": {
+    "Maria Lopez": {
+      "movement": [
+        85,
+        29
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        86,
+        29
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "leading the coding interview with Isabella (conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "41": {
+    "Maria Lopez": {
+      "movement": [
+        84,
+        29
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        85,
+        29
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "leading the coding interview with Isabella (conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "42": {
+    "Maria Lopez": {
+      "movement": [
+        84,
+        30
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        84,
+        29
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "leading the coding interview with Isabella (conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "43": {
+    "Maria Lopez": {
+      "movement": [
+        83,
+        30
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        84,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "leading the coding interview with Isabella (conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "44": {
+    "Maria Lopez": {
+      "movement": [
+        82,
+        30
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        83,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "leading the coding interview with Isabella (conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "45": {
+    "Maria Lopez": {
+      "movement": [
+        81,
+        30
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        82,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "leading the coding interview with Isabella (conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "46": {
+    "Maria Lopez": {
+      "movement": [
+        80,
+        30
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        81,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "leading the coding interview with Isabella (conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "47": {
+    "Maria Lopez": {
+      "movement": [
+        79,
+        30
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        80,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "leading the coding interview with Isabella (conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "48": {
+    "Maria Lopez": {
+      "movement": [
+        78,
+        30
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        79,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "leading the coding interview with Isabella (conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "49": {
+    "Maria Lopez": {
+      "movement": [
+        77,
+        30
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        78,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "leading the coding interview with Isabella (conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "50": {
+    "Maria Lopez": {
+      "movement": [
+        76,
+        30
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        77,
+        30
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "leading the coding interview with Isabella (conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "51": {
+    "Maria Lopez": {
+      "movement": [
+        76,
+        29
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        77,
+        29
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "leading the coding interview with Isabella (conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "52": {
+    "Maria Lopez": {
+      "movement": [
+        76,
+        28
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        77,
+        28
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "leading the coding interview with Isabella (conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "53": {
+    "Maria Lopez": {
+      "movement": [
+        76,
+        27
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        77,
+        27
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "leading the coding interview with Isabella (conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "54": {
+    "Maria Lopez": {
+      "movement": [
+        76,
+        26
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        77,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "leading the coding interview with Isabella (conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "55": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about how Isabella and Klaus discussed coding interview questions, solved a problem to find the sum of the two largest numbers, optimized the solution for space complexity, considered different approaches, and prepared for the next coding challenge of checking if a string is a palindrome. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hello Klaus, I hope your day is going well. I'm looking forward to the coding interview later today."
+        ],
+        [
+          "Klaus Mueller",
+          "Hello Isabella, I hope you enjoyed your lunch break. Are you ready to dive into the coding interview?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, I have spent the morning practicing coding problems and I feel prepared for the interview. I'm ready to showcase my problem-solving skills."
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear, Isabella. Let's get started with the coding interview. I want you to write code for a given problem and then we can discuss the optimizations."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure, I am ready to tackle the coding problem. Please provide me with the details."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let me explain the coding problem to you. Write a function that takes in an array of integers and returns the sum of the two largest numbers. Once you've written the code, we can work on optimizing it for time and space complexity."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Got it, Klaus! I will start working on writing the code for that problem."
+        ],
+        [
+          "Klaus Mueller",
+          "Take your time to write the code and let me know when you're ready to discuss your solution."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I have completed writing the code for the problem. Would you like me to explain my solution?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, Isabella, please explain your solution to me now."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I utilized a sorting algorithm to sort the array of integers in descending order, and then I summed up the first two numbers in the sorted array. This way, I can guarantee that I am adding the two largest numbers together. After that, I optimized the space complexity by only sorting the first two numbers and then returning their sum."
+        ],
+        [
+          "Klaus Mueller",
+          "Great job, Isabella! I appreciate your approach to the problem and how you optimized the solution for space complexity. Now, let's discuss the trade-offs of using a sorting algorithm versus a different approach. Can you think of any other ways to find the sum of the two largest numbers without sorting the entire array?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I could also loop through the array once, keeping track of the two largest numbers and updating them as I iterate through the array. This way, I can find the sum of the two largest numbers without sorting the entire array. This approach would have a time complexity of O(n) instead of O(n log n) when using a sorting algorithm."
+        ],
+        [
+          "Klaus Mueller",
+          "That's a great alternative approach, Isabella! I'm impressed with your problem-solving skills and ability to consider different solutions. Your understanding of time and space complexity is commendable. Let's move on to the next coding challenge."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus. I am excited to tackle the next coding challenge. Please provide me with the details."
+        ],
+        [
+          "Klaus Mueller",
+          "Alright, Isabella, let's move on to the next coding challenge. This time, I want you to write a function that checks if a string is a palindrome. Take your time to write the code, and let me know when you're ready to discuss your approach."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        26
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        26
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about how Isabella and Klaus discussed coding interview questions, solved a problem to find the sum of the two largest numbers, optimized the solution for space complexity, considered different approaches, and prepared for the next coding challenge of checking if a string is a palindrome. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hello Klaus, I hope your day is going well. I'm looking forward to the coding interview later today."
+        ],
+        [
+          "Klaus Mueller",
+          "Hello Isabella, I hope you enjoyed your lunch break. Are you ready to dive into the coding interview?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, I have spent the morning practicing coding problems and I feel prepared for the interview. I'm ready to showcase my problem-solving skills."
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear, Isabella. Let's get started with the coding interview. I want you to write code for a given problem and then we can discuss the optimizations."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure, I am ready to tackle the coding problem. Please provide me with the details."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let me explain the coding problem to you. Write a function that takes in an array of integers and returns the sum of the two largest numbers. Once you've written the code, we can work on optimizing it for time and space complexity."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Got it, Klaus! I will start working on writing the code for that problem."
+        ],
+        [
+          "Klaus Mueller",
+          "Take your time to write the code and let me know when you're ready to discuss your solution."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I have completed writing the code for the problem. Would you like me to explain my solution?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, Isabella, please explain your solution to me now."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I utilized a sorting algorithm to sort the array of integers in descending order, and then I summed up the first two numbers in the sorted array. This way, I can guarantee that I am adding the two largest numbers together. After that, I optimized the space complexity by only sorting the first two numbers and then returning their sum."
+        ],
+        [
+          "Klaus Mueller",
+          "Great job, Isabella! I appreciate your approach to the problem and how you optimized the solution for space complexity. Now, let's discuss the trade-offs of using a sorting algorithm versus a different approach. Can you think of any other ways to find the sum of the two largest numbers without sorting the entire array?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I could also loop through the array once, keeping track of the two largest numbers and updating them as I iterate through the array. This way, I can find the sum of the two largest numbers without sorting the entire array. This approach would have a time complexity of O(n) instead of O(n log n) when using a sorting algorithm."
+        ],
+        [
+          "Klaus Mueller",
+          "That's a great alternative approach, Isabella! I'm impressed with your problem-solving skills and ability to consider different solutions. Your understanding of time and space complexity is commendable. Let's move on to the next coding challenge."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus. I am excited to tackle the next coding challenge. Please provide me with the details."
+        ],
+        [
+          "Klaus Mueller",
+          "Alright, Isabella, let's move on to the next coding challenge. This time, I want you to write a function that checks if a string is a palindrome. Take your time to write the code, and let me know when you're ready to discuss your approach."
+        ]
+      ]
+    }
+  },
+  "56": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about how Isabella and Klaus discussed coding interview questions, solved a problem to find the sum of the two largest numbers, optimized the solution for space complexity, considered different approaches, and prepared for the next coding challenge of checking if a string is a palindrome. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hello Klaus, I hope your day is going well. I'm looking forward to the coding interview later today."
+        ],
+        [
+          "Klaus Mueller",
+          "Hello Isabella, I hope you enjoyed your lunch break. Are you ready to dive into the coding interview?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, I have spent the morning practicing coding problems and I feel prepared for the interview. I'm ready to showcase my problem-solving skills."
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear, Isabella. Let's get started with the coding interview. I want you to write code for a given problem and then we can discuss the optimizations."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure, I am ready to tackle the coding problem. Please provide me with the details."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let me explain the coding problem to you. Write a function that takes in an array of integers and returns the sum of the two largest numbers. Once you've written the code, we can work on optimizing it for time and space complexity."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Got it, Klaus! I will start working on writing the code for that problem."
+        ],
+        [
+          "Klaus Mueller",
+          "Take your time to write the code and let me know when you're ready to discuss your solution."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I have completed writing the code for the problem. Would you like me to explain my solution?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, Isabella, please explain your solution to me now."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I utilized a sorting algorithm to sort the array of integers in descending order, and then I summed up the first two numbers in the sorted array. This way, I can guarantee that I am adding the two largest numbers together. After that, I optimized the space complexity by only sorting the first two numbers and then returning their sum."
+        ],
+        [
+          "Klaus Mueller",
+          "Great job, Isabella! I appreciate your approach to the problem and how you optimized the solution for space complexity. Now, let's discuss the trade-offs of using a sorting algorithm versus a different approach. Can you think of any other ways to find the sum of the two largest numbers without sorting the entire array?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I could also loop through the array once, keeping track of the two largest numbers and updating them as I iterate through the array. This way, I can find the sum of the two largest numbers without sorting the entire array. This approach would have a time complexity of O(n) instead of O(n log n) when using a sorting algorithm."
+        ],
+        [
+          "Klaus Mueller",
+          "That's a great alternative approach, Isabella! I'm impressed with your problem-solving skills and ability to consider different solutions. Your understanding of time and space complexity is commendable. Let's move on to the next coding challenge."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus. I am excited to tackle the next coding challenge. Please provide me with the details."
+        ],
+        [
+          "Klaus Mueller",
+          "Alright, Isabella, let's move on to the next coding challenge. This time, I want you to write a function that checks if a string is a palindrome. Take your time to write the code, and let me know when you're ready to discuss your approach."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        25
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about how Isabella and Klaus discussed coding interview questions, solved a problem to find the sum of the two largest numbers, optimized the solution for space complexity, considered different approaches, and prepared for the next coding challenge of checking if a string is a palindrome. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hello Klaus, I hope your day is going well. I'm looking forward to the coding interview later today."
+        ],
+        [
+          "Klaus Mueller",
+          "Hello Isabella, I hope you enjoyed your lunch break. Are you ready to dive into the coding interview?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, I have spent the morning practicing coding problems and I feel prepared for the interview. I'm ready to showcase my problem-solving skills."
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear, Isabella. Let's get started with the coding interview. I want you to write code for a given problem and then we can discuss the optimizations."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure, I am ready to tackle the coding problem. Please provide me with the details."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let me explain the coding problem to you. Write a function that takes in an array of integers and returns the sum of the two largest numbers. Once you've written the code, we can work on optimizing it for time and space complexity."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Got it, Klaus! I will start working on writing the code for that problem."
+        ],
+        [
+          "Klaus Mueller",
+          "Take your time to write the code and let me know when you're ready to discuss your solution."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I have completed writing the code for the problem. Would you like me to explain my solution?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, Isabella, please explain your solution to me now."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I utilized a sorting algorithm to sort the array of integers in descending order, and then I summed up the first two numbers in the sorted array. This way, I can guarantee that I am adding the two largest numbers together. After that, I optimized the space complexity by only sorting the first two numbers and then returning their sum."
+        ],
+        [
+          "Klaus Mueller",
+          "Great job, Isabella! I appreciate your approach to the problem and how you optimized the solution for space complexity. Now, let's discuss the trade-offs of using a sorting algorithm versus a different approach. Can you think of any other ways to find the sum of the two largest numbers without sorting the entire array?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I could also loop through the array once, keeping track of the two largest numbers and updating them as I iterate through the array. This way, I can find the sum of the two largest numbers without sorting the entire array. This approach would have a time complexity of O(n) instead of O(n log n) when using a sorting algorithm."
+        ],
+        [
+          "Klaus Mueller",
+          "That's a great alternative approach, Isabella! I'm impressed with your problem-solving skills and ability to consider different solutions. Your understanding of time and space complexity is commendable. Let's move on to the next coding challenge."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus. I am excited to tackle the next coding challenge. Please provide me with the details."
+        ],
+        [
+          "Klaus Mueller",
+          "Alright, Isabella, let's move on to the next coding challenge. This time, I want you to write a function that checks if a string is a palindrome. Take your time to write the code, and let me know when you're ready to discuss your approach."
+        ]
+      ]
+    }
+  },
+  "57": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about how Isabella and Klaus discussed coding interview questions, solved a problem to find the sum of the two largest numbers, optimized the solution for space complexity, considered different approaches, and prepared for the next coding challenge of checking if a string is a palindrome. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hello Klaus, I hope your day is going well. I'm looking forward to the coding interview later today."
+        ],
+        [
+          "Klaus Mueller",
+          "Hello Isabella, I hope you enjoyed your lunch break. Are you ready to dive into the coding interview?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, I have spent the morning practicing coding problems and I feel prepared for the interview. I'm ready to showcase my problem-solving skills."
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear, Isabella. Let's get started with the coding interview. I want you to write code for a given problem and then we can discuss the optimizations."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure, I am ready to tackle the coding problem. Please provide me with the details."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let me explain the coding problem to you. Write a function that takes in an array of integers and returns the sum of the two largest numbers. Once you've written the code, we can work on optimizing it for time and space complexity."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Got it, Klaus! I will start working on writing the code for that problem."
+        ],
+        [
+          "Klaus Mueller",
+          "Take your time to write the code and let me know when you're ready to discuss your solution."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I have completed writing the code for the problem. Would you like me to explain my solution?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, Isabella, please explain your solution to me now."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I utilized a sorting algorithm to sort the array of integers in descending order, and then I summed up the first two numbers in the sorted array. This way, I can guarantee that I am adding the two largest numbers together. After that, I optimized the space complexity by only sorting the first two numbers and then returning their sum."
+        ],
+        [
+          "Klaus Mueller",
+          "Great job, Isabella! I appreciate your approach to the problem and how you optimized the solution for space complexity. Now, let's discuss the trade-offs of using a sorting algorithm versus a different approach. Can you think of any other ways to find the sum of the two largest numbers without sorting the entire array?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I could also loop through the array once, keeping track of the two largest numbers and updating them as I iterate through the array. This way, I can find the sum of the two largest numbers without sorting the entire array. This approach would have a time complexity of O(n) instead of O(n log n) when using a sorting algorithm."
+        ],
+        [
+          "Klaus Mueller",
+          "That's a great alternative approach, Isabella! I'm impressed with your problem-solving skills and ability to consider different solutions. Your understanding of time and space complexity is commendable. Let's move on to the next coding challenge."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus. I am excited to tackle the next coding challenge. Please provide me with the details."
+        ],
+        [
+          "Klaus Mueller",
+          "Alright, Isabella, let's move on to the next coding challenge. This time, I want you to write a function that checks if a string is a palindrome. Take your time to write the code, and let me know when you're ready to discuss your approach."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        24
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about how Isabella and Klaus discussed coding interview questions, solved a problem to find the sum of the two largest numbers, optimized the solution for space complexity, considered different approaches, and prepared for the next coding challenge of checking if a string is a palindrome. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hello Klaus, I hope your day is going well. I'm looking forward to the coding interview later today."
+        ],
+        [
+          "Klaus Mueller",
+          "Hello Isabella, I hope you enjoyed your lunch break. Are you ready to dive into the coding interview?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, I have spent the morning practicing coding problems and I feel prepared for the interview. I'm ready to showcase my problem-solving skills."
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear, Isabella. Let's get started with the coding interview. I want you to write code for a given problem and then we can discuss the optimizations."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure, I am ready to tackle the coding problem. Please provide me with the details."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let me explain the coding problem to you. Write a function that takes in an array of integers and returns the sum of the two largest numbers. Once you've written the code, we can work on optimizing it for time and space complexity."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Got it, Klaus! I will start working on writing the code for that problem."
+        ],
+        [
+          "Klaus Mueller",
+          "Take your time to write the code and let me know when you're ready to discuss your solution."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I have completed writing the code for the problem. Would you like me to explain my solution?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, Isabella, please explain your solution to me now."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I utilized a sorting algorithm to sort the array of integers in descending order, and then I summed up the first two numbers in the sorted array. This way, I can guarantee that I am adding the two largest numbers together. After that, I optimized the space complexity by only sorting the first two numbers and then returning their sum."
+        ],
+        [
+          "Klaus Mueller",
+          "Great job, Isabella! I appreciate your approach to the problem and how you optimized the solution for space complexity. Now, let's discuss the trade-offs of using a sorting algorithm versus a different approach. Can you think of any other ways to find the sum of the two largest numbers without sorting the entire array?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I could also loop through the array once, keeping track of the two largest numbers and updating them as I iterate through the array. This way, I can find the sum of the two largest numbers without sorting the entire array. This approach would have a time complexity of O(n) instead of O(n log n) when using a sorting algorithm."
+        ],
+        [
+          "Klaus Mueller",
+          "That's a great alternative approach, Isabella! I'm impressed with your problem-solving skills and ability to consider different solutions. Your understanding of time and space complexity is commendable. Let's move on to the next coding challenge."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus. I am excited to tackle the next coding challenge. Please provide me with the details."
+        ],
+        [
+          "Klaus Mueller",
+          "Alright, Isabella, let's move on to the next coding challenge. This time, I want you to write a function that checks if a string is a palindrome. Take your time to write the code, and let me know when you're ready to discuss your approach."
+        ]
+      ]
+    }
+  },
+  "58": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about how Isabella and Klaus discussed coding interview questions, solved a problem to find the sum of the two largest numbers, optimized the solution for space complexity, considered different approaches, and prepared for the next coding challenge of checking if a string is a palindrome. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hello Klaus, I hope your day is going well. I'm looking forward to the coding interview later today."
+        ],
+        [
+          "Klaus Mueller",
+          "Hello Isabella, I hope you enjoyed your lunch break. Are you ready to dive into the coding interview?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, I have spent the morning practicing coding problems and I feel prepared for the interview. I'm ready to showcase my problem-solving skills."
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear, Isabella. Let's get started with the coding interview. I want you to write code for a given problem and then we can discuss the optimizations."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure, I am ready to tackle the coding problem. Please provide me with the details."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let me explain the coding problem to you. Write a function that takes in an array of integers and returns the sum of the two largest numbers. Once you've written the code, we can work on optimizing it for time and space complexity."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Got it, Klaus! I will start working on writing the code for that problem."
+        ],
+        [
+          "Klaus Mueller",
+          "Take your time to write the code and let me know when you're ready to discuss your solution."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I have completed writing the code for the problem. Would you like me to explain my solution?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, Isabella, please explain your solution to me now."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I utilized a sorting algorithm to sort the array of integers in descending order, and then I summed up the first two numbers in the sorted array. This way, I can guarantee that I am adding the two largest numbers together. After that, I optimized the space complexity by only sorting the first two numbers and then returning their sum."
+        ],
+        [
+          "Klaus Mueller",
+          "Great job, Isabella! I appreciate your approach to the problem and how you optimized the solution for space complexity. Now, let's discuss the trade-offs of using a sorting algorithm versus a different approach. Can you think of any other ways to find the sum of the two largest numbers without sorting the entire array?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I could also loop through the array once, keeping track of the two largest numbers and updating them as I iterate through the array. This way, I can find the sum of the two largest numbers without sorting the entire array. This approach would have a time complexity of O(n) instead of O(n log n) when using a sorting algorithm."
+        ],
+        [
+          "Klaus Mueller",
+          "That's a great alternative approach, Isabella! I'm impressed with your problem-solving skills and ability to consider different solutions. Your understanding of time and space complexity is commendable. Let's move on to the next coding challenge."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus. I am excited to tackle the next coding challenge. Please provide me with the details."
+        ],
+        [
+          "Klaus Mueller",
+          "Alright, Isabella, let's move on to the next coding challenge. This time, I want you to write a function that checks if a string is a palindrome. Take your time to write the code, and let me know when you're ready to discuss your approach."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about how Isabella and Klaus discussed coding interview questions, solved a problem to find the sum of the two largest numbers, optimized the solution for space complexity, considered different approaches, and prepared for the next coding challenge of checking if a string is a palindrome. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hello Klaus, I hope your day is going well. I'm looking forward to the coding interview later today."
+        ],
+        [
+          "Klaus Mueller",
+          "Hello Isabella, I hope you enjoyed your lunch break. Are you ready to dive into the coding interview?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, I have spent the morning practicing coding problems and I feel prepared for the interview. I'm ready to showcase my problem-solving skills."
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear, Isabella. Let's get started with the coding interview. I want you to write code for a given problem and then we can discuss the optimizations."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure, I am ready to tackle the coding problem. Please provide me with the details."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let me explain the coding problem to you. Write a function that takes in an array of integers and returns the sum of the two largest numbers. Once you've written the code, we can work on optimizing it for time and space complexity."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Got it, Klaus! I will start working on writing the code for that problem."
+        ],
+        [
+          "Klaus Mueller",
+          "Take your time to write the code and let me know when you're ready to discuss your solution."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I have completed writing the code for the problem. Would you like me to explain my solution?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, Isabella, please explain your solution to me now."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I utilized a sorting algorithm to sort the array of integers in descending order, and then I summed up the first two numbers in the sorted array. This way, I can guarantee that I am adding the two largest numbers together. After that, I optimized the space complexity by only sorting the first two numbers and then returning their sum."
+        ],
+        [
+          "Klaus Mueller",
+          "Great job, Isabella! I appreciate your approach to the problem and how you optimized the solution for space complexity. Now, let's discuss the trade-offs of using a sorting algorithm versus a different approach. Can you think of any other ways to find the sum of the two largest numbers without sorting the entire array?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I could also loop through the array once, keeping track of the two largest numbers and updating them as I iterate through the array. This way, I can find the sum of the two largest numbers without sorting the entire array. This approach would have a time complexity of O(n) instead of O(n log n) when using a sorting algorithm."
+        ],
+        [
+          "Klaus Mueller",
+          "That's a great alternative approach, Isabella! I'm impressed with your problem-solving skills and ability to consider different solutions. Your understanding of time and space complexity is commendable. Let's move on to the next coding challenge."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus. I am excited to tackle the next coding challenge. Please provide me with the details."
+        ],
+        [
+          "Klaus Mueller",
+          "Alright, Isabella, let's move on to the next coding challenge. This time, I want you to write a function that checks if a string is a palindrome. Take your time to write the code, and let me know when you're ready to discuss your approach."
+        ]
+      ]
+    }
+  },
+  "59": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about how Isabella and Klaus discussed coding interview questions, solved a problem to find the sum of the two largest numbers, optimized the solution for space complexity, considered different approaches, and prepared for the next coding challenge of checking if a string is a palindrome. @ <persona> Klaus Mueller",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hello Klaus, I hope your day is going well. I'm looking forward to the coding interview later today."
+        ],
+        [
+          "Klaus Mueller",
+          "Hello Isabella, I hope you enjoyed your lunch break. Are you ready to dive into the coding interview?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Yes, I have spent the morning practicing coding problems and I feel prepared for the interview. I'm ready to showcase my problem-solving skills."
+        ],
+        [
+          "Klaus Mueller",
+          "That's great to hear, Isabella. Let's get started with the coding interview. I want you to write code for a given problem and then we can discuss the optimizations."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Sure, I am ready to tackle the coding problem. Please provide me with the details."
+        ],
+        [
+          "Klaus Mueller",
+          "Great, let me explain the coding problem to you. Write a function that takes in an array of integers and returns the sum of the two largest numbers. Once you've written the code, we can work on optimizing it for time and space complexity."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Got it, Klaus! I will start working on writing the code for that problem."
+        ],
+        [
+          "Klaus Mueller",
+          "Take your time to write the code and let me know when you're ready to discuss your solution."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I have completed writing the code for the problem. Would you like me to explain my solution?"
+        ],
+        [
+          "Klaus Mueller",
+          "Yes, Isabella, please explain your solution to me now."
+        ],
+        [
+          "Isabella Rodriguez",
+          "I utilized a sorting algorithm to sort the array of integers in descending order, and then I summed up the first two numbers in the sorted array. This way, I can guarantee that I am adding the two largest numbers together. After that, I optimized the space complexity by only sorting the first two numbers and then returning their sum."
+        ],
+        [
+          "Klaus Mueller",
+          "Great job, Isabella! I appreciate your approach to the problem and how you optimized the solution for space complexity. Now, let's discuss the trade-offs of using a sorting algorithm versus a different approach. Can you think of any other ways to find the sum of the two largest numbers without sorting the entire array?"
+        ],
+        [
+          "Isabella Rodriguez",
+          "I could also loop through the array once, keeping track of the two largest numbers and updating them as I iterate through the array. This way, I can find the sum of the two largest numbers without sorting the entire array. This approach would have a time complexity of O(n) instead of O(n log n) when using a sorting algorithm."
+        ],
+        [
+          "Klaus Mueller",
+          "That's a great alternative approach, Isabella! I'm impressed with your problem-solving skills and ability to consider different solutions. Your understanding of time and space complexity is commendable. Let's move on to the next coding challenge."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Klaus. I am excited to tackle the next coding challenge. Please provide me with the details."
+        ],
+        [
+          "Klaus Mueller",
+          "Alright, Isabella, let's move on to the next coding challenge. This time, I want you to write a function that checks if a string is a palindrome. Take your time to write the code, and let me know when you're ready to discuss your approach."
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "60": {
+    "Maria Lopez": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "61": {
+    "Maria Lopez": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "62": {
+    "Maria Lopez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "63": {
+    "Maria Lopez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "64": {
+    "Maria Lopez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "65": {
+    "Maria Lopez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "66": {
+    "Maria Lopez": {
+      "movement": [
+        78,
+        18
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "67": {
+    "Maria Lopez": {
+      "movement": [
+        78,
+        17
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "68": {
+    "Maria Lopez": {
+      "movement": [
+        78,
+        16
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "69": {
+    "Maria Lopez": {
+      "movement": [
+        77,
+        16
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "70": {
+    "Maria Lopez": {
+      "movement": [
+        76,
+        16
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "71": {
+    "Maria Lopez": {
+      "movement": [
+        75,
+        16
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "72": {
+    "Maria Lopez": {
+      "movement": [
+        74,
+        16
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "73": {
+    "Maria Lopez": {
+      "movement": [
+        74,
+        15
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "74": {
+    "Maria Lopez": {
+      "movement": [
+        74,
+        14
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "75": {
+    "Maria Lopez": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "76": {
+    "Maria Lopez": {
+      "movement": [
+        76,
+        14
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "77": {
+    "Maria Lopez": {
+      "movement": [
+        77,
+        14
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "78": {
+    "Maria Lopez": {
+      "movement": [
+        76,
+        14
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "79": {
+    "Maria Lopez": {
+      "movement": [
+        75,
+        14
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "80": {
+    "Maria Lopez": {
+      "movement": [
+        74,
+        14
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "81": {
+    "Maria Lopez": {
+      "movement": [
+        74,
+        15
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "82": {
+    "Maria Lopez": {
+      "movement": [
+        75,
+        15
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "83": {
+    "Maria Lopez": {
+      "movement": [
+        76,
+        15
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "84": {
+    "Maria Lopez": {
+      "movement": [
+        77,
+        15
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "85": {
+    "Maria Lopez": {
+      "movement": [
+        78,
+        15
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "86": {
+    "Maria Lopez": {
+      "movement": [
+        78,
+        16
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "87": {
+    "Maria Lopez": {
+      "movement": [
+        78,
+        17
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "88": {
+    "Maria Lopez": {
+      "movement": [
+        78,
+        18
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "89": {
+    "Maria Lopez": {
+      "movement": [
+        78,
+        17
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "90": {
+    "Maria Lopez": {
+      "movement": [
+        78,
+        16
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "91": {
+    "Maria Lopez": {
+      "movement": [
+        77,
+        16
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "92": {
+    "Maria Lopez": {
+      "movement": [
+        76,
+        16
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "93": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (conversing about how Isabella and Klaus discussed coding interview questions, solved a problem to find the sum of the two largest numbers, optimized the solution for space complexity, considered different approaches, and prepared for the next coding challenge of checking if a string is a palindrome.) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        16
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "leading the coding interview with Isabella (conversing about how Isabella and Klaus discussed coding interview questions, solved a problem to find the sum of the two largest numbers, optimized the solution for space complexity, considered different approaches, and prepared for the next coding challenge of checking if a string is a palindrome.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "94": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (conversing about how Isabella and Klaus discussed coding interview questions, solved a problem to find the sum of the two largest numbers, optimized the solution for space complexity, considered different approaches, and prepared for the next coding challenge of checking if a string is a palindrome.) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        74,
+        16
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "leading the coding interview with Isabella (conversing about how Isabella and Klaus discussed coding interview questions, solved a problem to find the sum of the two largest numbers, optimized the solution for space complexity, considered different approaches, and prepared for the next coding challenge of checking if a string is a palindrome.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "95": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (conversing about how Isabella and Klaus discussed coding interview questions, solved a problem to find the sum of the two largest numbers, optimized the solution for space complexity, considered different approaches, and prepared for the next coding challenge of checking if a string is a palindrome.) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        74,
+        15
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        24
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "leading the coding interview with Isabella (conversing about how Isabella and Klaus discussed coding interview questions, solved a problem to find the sum of the two largest numbers, optimized the solution for space complexity, considered different approaches, and prepared for the next coding challenge of checking if a string is a palindrome.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "96": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (conversing about how Isabella and Klaus discussed coding interview questions, solved a problem to find the sum of the two largest numbers, optimized the solution for space complexity, considered different approaches, and prepared for the next coding challenge of checking if a string is a palindrome.) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "leading the coding interview with Isabella (conversing about how Isabella and Klaus discussed coding interview questions, solved a problem to find the sum of the two largest numbers, optimized the solution for space complexity, considered different approaches, and prepared for the next coding challenge of checking if a string is a palindrome.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "97": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (conversing about how Isabella and Klaus discussed coding interview questions, solved a problem to find the sum of the two largest numbers, optimized the solution for space complexity, considered different approaches, and prepared for the next coding challenge of checking if a string is a palindrome.) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        15
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "98": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (conversing about how Isabella and Klaus discussed coding interview questions, solved a problem to find the sum of the two largest numbers, optimized the solution for space complexity, considered different approaches, and prepared for the next coding challenge of checking if a string is a palindrome.) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        15
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "99": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (conversing about how Isabella and Klaus discussed coding interview questions, solved a problem to find the sum of the two largest numbers, optimized the solution for space complexity, considered different approaches, and prepared for the next coding challenge of checking if a string is a palindrome.) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        77,
+        15
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "100": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (conversing about how Isabella and Klaus discussed coding interview questions, solved a problem to find the sum of the two largest numbers, optimized the solution for space complexity, considered different approaches, and prepared for the next coding challenge of checking if a string is a palindrome.) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        77,
+        16
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "101": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (conversing about how Isabella and Klaus discussed coding interview questions, solved a problem to find the sum of the two largest numbers, optimized the solution for space complexity, considered different approaches, and prepared for the next coding challenge of checking if a string is a palindrome.) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "102": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        18
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (conversing about how Isabella and Klaus discussed coding interview questions, solved a problem to find the sum of the two largest numbers, optimized the solution for space complexity, considered different approaches, and prepared for the next coding challenge of checking if a string is a palindrome.) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        77,
+        15
+      ],
+      "pronunciatio": "\ud83d\udc54",
+      "description": "preparing for the interview with Isabella Rodriguez @ the Ville:Isabella Rodriguez's apartment:main room:<random>",
+      "chat": null
+    }
+  },
+  "103": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        17
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Isabella Rodriguez and Maria Lopez, discussing interview preparation strategies and tips on staying calm during coding challenges. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Maria, how's your preparation going for the interview?"
+        ],
+        [
+          "Maria Lopez",
+          "Hi Isabella, my preparation is going well. I've been reviewing the coding challenges we will discuss and looking forward to seeing how you tackle them."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear, Maria! I've been practicing diligently and feel prepared for the challenges. Do you have any tips for staying calm during the interview?"
+        ],
+        [
+          "Maria Lopez",
+          "One tip I find helpful is to take a deep breath and remind yourself that it's okay to take a moment to think through a problem before diving in."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's a great tip, Maria! I'll be sure to keep that in mind during the interview. Thank you for sharing!"
+        ],
+        [
+          "Maria Lopez",
+          "Remember to stay focused and confident in your abilities. You've got this, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for the encouragement, Maria. I appreciate your advice and support."
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad to hear you feel prepared, Isabella. Just remember to ask questions and communicate your thought process clearly during the interview."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. I will keep your advice in mind and approach the interview with confidence."
+        ],
+        [
+          "Maria Lopez",
+          "Good luck, Isabella! I'm excited to see your problem-solving skills in action during the interview."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. I will do my best and showcase my problem-solving skills during the interview. Your tips have really helped me feel more confident in my preparation."
+        ],
+        [
+          "Maria Lopez",
+          "Remember to approach each coding challenge with a clear strategy and break down the problem into smaller steps. This will help you stay organized and effectively solve the problems."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. I will keep your advice in mind and approach the interview with confidence."
+        ],
+        [
+          "Maria Lopez",
+          "Remember to also utilize test cases to validate your solutions and consider edge cases. This will demonstrate your thorough problem-solving approach."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. I will keep all your advice in mind and approach the interview with confidence. I appreciate your support and encouragement."
+        ],
+        [
+          "Maria Lopez",
+          "Remember to stay positive and trust in your capabilities, Isabella. You've prepared well, and I have no doubt you'll do great!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        78,
+        15
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Isabella Rodriguez and Maria Lopez, discussing interview preparation strategies and tips on staying calm during coding challenges. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Maria, how's your preparation going for the interview?"
+        ],
+        [
+          "Maria Lopez",
+          "Hi Isabella, my preparation is going well. I've been reviewing the coding challenges we will discuss and looking forward to seeing how you tackle them."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear, Maria! I've been practicing diligently and feel prepared for the challenges. Do you have any tips for staying calm during the interview?"
+        ],
+        [
+          "Maria Lopez",
+          "One tip I find helpful is to take a deep breath and remind yourself that it's okay to take a moment to think through a problem before diving in."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's a great tip, Maria! I'll be sure to keep that in mind during the interview. Thank you for sharing!"
+        ],
+        [
+          "Maria Lopez",
+          "Remember to stay focused and confident in your abilities. You've got this, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for the encouragement, Maria. I appreciate your advice and support."
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad to hear you feel prepared, Isabella. Just remember to ask questions and communicate your thought process clearly during the interview."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. I will keep your advice in mind and approach the interview with confidence."
+        ],
+        [
+          "Maria Lopez",
+          "Good luck, Isabella! I'm excited to see your problem-solving skills in action during the interview."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. I will do my best and showcase my problem-solving skills during the interview. Your tips have really helped me feel more confident in my preparation."
+        ],
+        [
+          "Maria Lopez",
+          "Remember to approach each coding challenge with a clear strategy and break down the problem into smaller steps. This will help you stay organized and effectively solve the problems."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. I will keep your advice in mind and approach the interview with confidence."
+        ],
+        [
+          "Maria Lopez",
+          "Remember to also utilize test cases to validate your solutions and consider edge cases. This will demonstrate your thorough problem-solving approach."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. I will keep all your advice in mind and approach the interview with confidence. I appreciate your support and encouragement."
+        ],
+        [
+          "Maria Lopez",
+          "Remember to stay positive and trust in your capabilities, Isabella. You've prepared well, and I have no doubt you'll do great!"
+        ]
+      ]
+    }
+  },
+  "104": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Isabella Rodriguez and Maria Lopez, discussing interview preparation strategies and tips on staying calm during coding challenges. @ <persona> Maria Lopez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Maria, how's your preparation going for the interview?"
+        ],
+        [
+          "Maria Lopez",
+          "Hi Isabella, my preparation is going well. I've been reviewing the coding challenges we will discuss and looking forward to seeing how you tackle them."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear, Maria! I've been practicing diligently and feel prepared for the challenges. Do you have any tips for staying calm during the interview?"
+        ],
+        [
+          "Maria Lopez",
+          "One tip I find helpful is to take a deep breath and remind yourself that it's okay to take a moment to think through a problem before diving in."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's a great tip, Maria! I'll be sure to keep that in mind during the interview. Thank you for sharing!"
+        ],
+        [
+          "Maria Lopez",
+          "Remember to stay focused and confident in your abilities. You've got this, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for the encouragement, Maria. I appreciate your advice and support."
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad to hear you feel prepared, Isabella. Just remember to ask questions and communicate your thought process clearly during the interview."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. I will keep your advice in mind and approach the interview with confidence."
+        ],
+        [
+          "Maria Lopez",
+          "Good luck, Isabella! I'm excited to see your problem-solving skills in action during the interview."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. I will do my best and showcase my problem-solving skills during the interview. Your tips have really helped me feel more confident in my preparation."
+        ],
+        [
+          "Maria Lopez",
+          "Remember to approach each coding challenge with a clear strategy and break down the problem into smaller steps. This will help you stay organized and effectively solve the problems."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. I will keep your advice in mind and approach the interview with confidence."
+        ],
+        [
+          "Maria Lopez",
+          "Remember to also utilize test cases to validate your solutions and consider edge cases. This will demonstrate your thorough problem-solving approach."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. I will keep all your advice in mind and approach the interview with confidence. I appreciate your support and encouragement."
+        ],
+        [
+          "Maria Lopez",
+          "Remember to stay positive and trust in your capabilities, Isabella. You've prepared well, and I have no doubt you'll do great!"
+        ]
+      ]
+    },
+    "Maria Lopez": {
+      "movement": [
+        78,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conversing about two friends, Isabella Rodriguez and Maria Lopez, discussing interview preparation strategies and tips on staying calm during coding challenges. @ <persona> Isabella Rodriguez",
+      "chat": [
+        [
+          "Isabella Rodriguez",
+          "Hi Maria, how's your preparation going for the interview?"
+        ],
+        [
+          "Maria Lopez",
+          "Hi Isabella, my preparation is going well. I've been reviewing the coding challenges we will discuss and looking forward to seeing how you tackle them."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's great to hear, Maria! I've been practicing diligently and feel prepared for the challenges. Do you have any tips for staying calm during the interview?"
+        ],
+        [
+          "Maria Lopez",
+          "One tip I find helpful is to take a deep breath and remind yourself that it's okay to take a moment to think through a problem before diving in."
+        ],
+        [
+          "Isabella Rodriguez",
+          "That's a great tip, Maria! I'll be sure to keep that in mind during the interview. Thank you for sharing!"
+        ],
+        [
+          "Maria Lopez",
+          "Remember to stay focused and confident in your abilities. You've got this, Isabella!"
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you for the encouragement, Maria. I appreciate your advice and support."
+        ],
+        [
+          "Maria Lopez",
+          "I'm glad to hear you feel prepared, Isabella. Just remember to ask questions and communicate your thought process clearly during the interview."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. I will keep your advice in mind and approach the interview with confidence."
+        ],
+        [
+          "Maria Lopez",
+          "Good luck, Isabella! I'm excited to see your problem-solving skills in action during the interview."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. I will do my best and showcase my problem-solving skills during the interview. Your tips have really helped me feel more confident in my preparation."
+        ],
+        [
+          "Maria Lopez",
+          "Remember to approach each coding challenge with a clear strategy and break down the problem into smaller steps. This will help you stay organized and effectively solve the problems."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. I will keep your advice in mind and approach the interview with confidence."
+        ],
+        [
+          "Maria Lopez",
+          "Remember to also utilize test cases to validate your solutions and consider edge cases. This will demonstrate your thorough problem-solving approach."
+        ],
+        [
+          "Isabella Rodriguez",
+          "Thank you, Maria. I will keep all your advice in mind and approach the interview with confidence. I appreciate your support and encouragement."
+        ],
+        [
+          "Maria Lopez",
+          "Remember to stay positive and trust in your capabilities, Isabella. You've prepared well, and I have no doubt you'll do great!"
+        ]
+      ]
+    }
+  },
+  "105": {},
+  "106": {},
+  "107": {},
+  "108": {},
+  "109": {},
+  "110": {},
+  "111": {},
+  "112": {},
+  "113": {},
+  "114": {},
+  "115": {},
+  "116": {},
+  "117": {},
+  "118": {},
+  "119": {},
+  "120": {},
+  "121": {},
+  "122": {},
+  "123": {},
+  "124": {},
+  "125": {},
+  "126": {},
+  "127": {},
+  "128": {},
+  "129": {},
+  "130": {},
+  "131": {},
+  "132": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        17
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (conversing about two friends, Isabella Rodriguez and Maria Lopez, discussing interview preparation strategies and tips on staying calm during coding challenges.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        77,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conducting the coding assessment with Isabella Rodriguez (conversing about two friends, Isabella Rodriguez and Maria Lopez, discussing interview preparation strategies and tips on staying calm during coding challenges.) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        24
+      ],
+      "pronunciatio": "\ud83d\udd27",
+      "description": "leading the coding interview with Isabella (asking Isabella to refactor her code for optimization) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "133": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        18
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (conversing about two friends, Isabella Rodriguez and Maria Lopez, discussing interview preparation strategies and tips on staying calm during coding challenges.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conducting the coding assessment with Isabella Rodriguez (conversing about two friends, Isabella Rodriguez and Maria Lopez, discussing interview preparation strategies and tips on staying calm during coding challenges.) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        73,
+        24
+      ],
+      "pronunciatio": "\ud83d\udd27",
+      "description": "leading the coding interview with Isabella (asking Isabella to refactor her code for optimization) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "134": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (conversing about two friends, Isabella Rodriguez and Maria Lopez, discussing interview preparation strategies and tips on staying calm during coding challenges.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conducting the coding assessment with Isabella Rodriguez (conversing about two friends, Isabella Rodriguez and Maria Lopez, discussing interview preparation strategies and tips on staying calm during coding challenges.) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        72,
+        24
+      ],
+      "pronunciatio": "\ud83d\udd27",
+      "description": "leading the coding interview with Isabella (asking Isabella to refactor her code for optimization) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "135": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (conversing about two friends, Isabella Rodriguez and Maria Lopez, discussing interview preparation strategies and tips on staying calm during coding challenges.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        74,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conducting the coding assessment with Isabella Rodriguez (conversing about two friends, Isabella Rodriguez and Maria Lopez, discussing interview preparation strategies and tips on staying calm during coding challenges.) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        72,
+        23
+      ],
+      "pronunciatio": "\ud83d\udd27",
+      "description": "leading the coding interview with Isabella (asking Isabella to refactor her code for optimization) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "136": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (conversing about two friends, Isabella Rodriguez and Maria Lopez, discussing interview preparation strategies and tips on staying calm during coding challenges.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "conducting the coding assessment with Isabella Rodriguez (conversing about two friends, Isabella Rodriguez and Maria Lopez, discussing interview preparation strategies and tips on staying calm during coding challenges.) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "137": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (conversing about two friends, Isabella Rodriguez and Maria Lopez, discussing interview preparation strategies and tips on staying calm during coding challenges.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "138": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (conversing about two friends, Isabella Rodriguez and Maria Lopez, discussing interview preparation strategies and tips on staying calm during coding challenges.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "139": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (conversing about two friends, Isabella Rodriguez and Maria Lopez, discussing interview preparation strategies and tips on staying calm during coding challenges.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "140": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (conversing about two friends, Isabella Rodriguez and Maria Lopez, discussing interview preparation strategies and tips on staying calm during coding challenges.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "141": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (conversing about two friends, Isabella Rodriguez and Maria Lopez, discussing interview preparation strategies and tips on staying calm during coding challenges.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "142": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (conversing about two friends, Isabella Rodriguez and Maria Lopez, discussing interview preparation strategies and tips on staying calm during coding challenges.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "143": {
+    "Isabella Rodriguez": {
+      "movement": [
+        79,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (conversing about two friends, Isabella Rodriguez and Maria Lopez, discussing interview preparation strategies and tips on staying calm during coding challenges.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "144": {
+    "Isabella Rodriguez": {
+      "movement": [
+        80,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (conversing about two friends, Isabella Rodriguez and Maria Lopez, discussing interview preparation strategies and tips on staying calm during coding challenges.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "145": {
+    "Isabella Rodriguez": {
+      "movement": [
+        81,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (conversing about two friends, Isabella Rodriguez and Maria Lopez, discussing interview preparation strategies and tips on staying calm during coding challenges.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "146": {
+    "Isabella Rodriguez": {
+      "movement": [
+        82,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (conversing about two friends, Isabella Rodriguez and Maria Lopez, discussing interview preparation strategies and tips on staying calm during coding challenges.) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "147": {},
+  "148": {},
+  "149": {},
+  "150": {},
+  "151": {},
+  "152": {},
+  "153": {},
+  "154": {},
+  "155": {},
+  "156": {},
+  "157": {},
+  "158": {},
+  "159": {},
+  "160": {},
+  "161": {},
+  "162": {
+    "Isabella Rodriguez": {
+      "movement": [
+        81,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (going over potential coding problems and solutions in her head) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83d\udc40\ud83d\udcdd",
+      "description": "conducting the coding assessment with Isabella Rodriguez (observing and taking notes as Isabella codes) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        72,
+        24
+      ],
+      "pronunciatio": "\ud83d\udd04",
+      "description": "leading the coding interview with Isabella (discussing the trade-offs of different approaches with Isabella) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "163": {
+    "Isabella Rodriguez": {
+      "movement": [
+        80,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (going over potential coding problems and solutions in her head) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        73,
+        24
+      ],
+      "pronunciatio": "\ud83d\udd04",
+      "description": "leading the coding interview with Isabella (discussing the trade-offs of different approaches with Isabella) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "164": {
+    "Isabella Rodriguez": {
+      "movement": [
+        79,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (going over potential coding problems and solutions in her head) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        24
+      ],
+      "pronunciatio": "\ud83d\udd04",
+      "description": "leading the coding interview with Isabella (discussing the trade-offs of different approaches with Isabella) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "165": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (going over potential coding problems and solutions in her head) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        25
+      ],
+      "pronunciatio": "\ud83d\udd04",
+      "description": "leading the coding interview with Isabella (discussing the trade-offs of different approaches with Isabella) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "166": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (going over potential coding problems and solutions in her head) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "167": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (going over potential coding problems and solutions in her head) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "168": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (going over potential coding problems and solutions in her head) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "169": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (going over potential coding problems and solutions in her head) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "170": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (going over potential coding problems and solutions in her head) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "171": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (going over potential coding problems and solutions in her head) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "172": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (going over potential coding problems and solutions in her head) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "173": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (going over potential coding problems and solutions in her head) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "174": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        18
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (going over potential coding problems and solutions in her head) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "175": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        17
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (going over potential coding problems and solutions in her head) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "176": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (going over potential coding problems and solutions in her head) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "177": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (going over potential coding problems and solutions in her head) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "178": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (going over potential coding problems and solutions in her head) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "179": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (going over potential coding problems and solutions in her head) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "180": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (going over potential coding problems and solutions in her head) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "181": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (going over potential coding problems and solutions in her head) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "182": {},
+  "183": {},
+  "184": {},
+  "185": {},
+  "186": {},
+  "187": {},
+  "188": {},
+  "189": {},
+  "190": {},
+  "191": {},
+  "192": {},
+  "193": {},
+  "194": {},
+  "195": {},
+  "196": {},
+  "197": {},
+  "198": {},
+  "199": {},
+  "200": {},
+  "201": {},
+  "202": {},
+  "203": {},
+  "204": {},
+  "205": {},
+  "206": {},
+  "207": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\u23f0",
+      "description": "mentally preparing for the coding interview at Hobbs Cafe (checking the time and making sure she leaves on time for the interview) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        24
+      ],
+      "pronunciatio": "\ud83d\udc4d",
+      "description": "leading the coding interview with Isabella (giving Isabella feedback on her performance) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "208": {
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciatio": "\ud83d\udc4d",
+      "description": "leading the coding interview with Isabella (giving Isabella feedback on her performance) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "209": {
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        22
+      ],
+      "pronunciatio": "\ud83d\udc4d",
+      "description": "leading the coding interview with Isabella (giving Isabella feedback on her performance) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "210": {
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        21
+      ],
+      "pronunciatio": "\ud83d\udc4d",
+      "description": "leading the coding interview with Isabella (giving Isabella feedback on her performance) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "211": {
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        20
+      ],
+      "pronunciatio": "\ud83d\udc4d",
+      "description": "leading the coding interview with Isabella (giving Isabella feedback on her performance) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "212": {
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc4d",
+      "description": "leading the coding interview with Isabella (giving Isabella feedback on her performance) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "213": {
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc4d",
+      "description": "leading the coding interview with Isabella (giving Isabella feedback on her performance) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "214": {
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc4d",
+      "description": "leading the coding interview with Isabella (giving Isabella feedback on her performance) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "215": {
+    "Klaus Mueller": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc4d",
+      "description": "leading the coding interview with Isabella (giving Isabella feedback on her performance) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "216": {
+    "Klaus Mueller": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udc4d",
+      "description": "leading the coding interview with Isabella (giving Isabella feedback on her performance) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "217": {
+    "Klaus Mueller": {
+      "movement": [
+        78,
+        18
+      ],
+      "pronunciatio": "\ud83d\udc4d",
+      "description": "leading the coding interview with Isabella (giving Isabella feedback on her performance) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "218": {
+    "Klaus Mueller": {
+      "movement": [
+        78,
+        17
+      ],
+      "pronunciatio": "\ud83d\udc4d",
+      "description": "leading the coding interview with Isabella (giving Isabella feedback on her performance) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "219": {
+    "Klaus Mueller": {
+      "movement": [
+        78,
+        16
+      ],
+      "pronunciatio": "\ud83d\udc4d",
+      "description": "leading the coding interview with Isabella (giving Isabella feedback on her performance) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "220": {
+    "Klaus Mueller": {
+      "movement": [
+        77,
+        16
+      ],
+      "pronunciatio": "\ud83d\udc4d",
+      "description": "leading the coding interview with Isabella (giving Isabella feedback on her performance) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "221": {
+    "Klaus Mueller": {
+      "movement": [
+        76,
+        16
+      ],
+      "pronunciatio": "\ud83d\udc4d",
+      "description": "leading the coding interview with Isabella (giving Isabella feedback on her performance) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "222": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (reviewing her notes on coding interview strategies) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\u2753\ud83d\udcac",
+      "description": "conducting the coding assessment with Isabella Rodriguez (asking Isabella questions and providing real-time feedback) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        75,
+        16
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "leading the coding interview with Isabella (wrapping up the coding interview and thanking Isabella for her time) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "223": {
+    "Klaus Mueller": {
+      "movement": [
+        74,
+        16
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "leading the coding interview with Isabella (wrapping up the coding interview and thanking Isabella for her time) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "224": {
+    "Klaus Mueller": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83d\udc4b",
+      "description": "leading the coding interview with Isabella (wrapping up the coding interview and thanking Isabella for her time) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "225": {},
+  "226": {},
+  "227": {},
+  "228": {},
+  "229": {},
+  "230": {},
+  "231": {},
+  "232": {},
+  "233": {},
+  "234": {},
+  "235": {},
+  "236": {},
+  "237": {
+    "Maria Lopez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83c\udf81",
+      "description": "conducting the coding assessment with Isabella Rodriguez (wrapping up the coding assessment and thanking Isabella for her time) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83d\udd0d",
+      "description": "discussing the coding interview with Maria Lopez (reviewing Isabella's coding interview responses) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "238": {},
+  "239": {},
+  "240": {},
+  "241": {},
+  "242": {},
+  "243": {},
+  "244": {},
+  "245": {},
+  "246": {},
+  "247": {},
+  "248": {},
+  "249": {},
+  "250": {},
+  "251": {},
+  "252": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        16
+      ],
+      "pronunciatio": "\ud83e\uddd8\u200d\u2642",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (mentally preparing for the interview by taking deep breaths and visualizing a successful interview) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83d\udc69\u200d\ud83d\udcbb",
+      "description": "reviewing and providing feedback on the code with Isabella @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "253": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        16
+      ],
+      "pronunciatio": "\ud83e\uddd8\u200d\u2642",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (mentally preparing for the interview by taking deep breaths and visualizing a successful interview) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "254": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        16
+      ],
+      "pronunciatio": "\ud83e\uddd8\u200d\u2642",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (mentally preparing for the interview by taking deep breaths and visualizing a successful interview) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "255": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        16
+      ],
+      "pronunciatio": "\ud83e\uddd8\u200d\u2642",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (mentally preparing for the interview by taking deep breaths and visualizing a successful interview) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "256": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        16
+      ],
+      "pronunciatio": "\ud83e\uddd8\u200d\u2642",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (mentally preparing for the interview by taking deep breaths and visualizing a successful interview) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "257": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        17
+      ],
+      "pronunciatio": "\ud83e\uddd8\u200d\u2642",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (mentally preparing for the interview by taking deep breaths and visualizing a successful interview) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "258": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        18
+      ],
+      "pronunciatio": "\ud83e\uddd8\u200d\u2642",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (mentally preparing for the interview by taking deep breaths and visualizing a successful interview) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "259": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83e\uddd8\u200d\u2642",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (mentally preparing for the interview by taking deep breaths and visualizing a successful interview) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "260": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83e\uddd8\u200d\u2642",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (mentally preparing for the interview by taking deep breaths and visualizing a successful interview) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "261": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83e\uddd8\u200d\u2642",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (mentally preparing for the interview by taking deep breaths and visualizing a successful interview) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "262": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83e\uddd8\u200d\u2642",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (mentally preparing for the interview by taking deep breaths and visualizing a successful interview) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "263": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        19
+      ],
+      "pronunciatio": "\ud83e\uddd8\u200d\u2642",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (mentally preparing for the interview by taking deep breaths and visualizing a successful interview) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "264": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83e\uddd8\u200d\u2642",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (mentally preparing for the interview by taking deep breaths and visualizing a successful interview) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "265": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        19
+      ],
+      "pronunciatio": "\ud83e\uddd8\u200d\u2642",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (mentally preparing for the interview by taking deep breaths and visualizing a successful interview) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "266": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        20
+      ],
+      "pronunciatio": "\ud83e\uddd8\u200d\u2642",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (mentally preparing for the interview by taking deep breaths and visualizing a successful interview) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "267": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        21
+      ],
+      "pronunciatio": "\ud83e\uddd8\u200d\u2642",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (mentally preparing for the interview by taking deep breaths and visualizing a successful interview) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "268": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        22
+      ],
+      "pronunciatio": "\ud83e\uddd8\u200d\u2642",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (mentally preparing for the interview by taking deep breaths and visualizing a successful interview) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "269": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        23
+      ],
+      "pronunciatio": "\ud83e\uddd8\u200d\u2642",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (mentally preparing for the interview by taking deep breaths and visualizing a successful interview) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "270": {},
+  "271": {},
+  "272": {},
+  "273": {},
+  "274": {},
+  "275": {},
+  "276": {},
+  "277": {},
+  "278": {},
+  "279": {},
+  "280": {},
+  "281": {},
+  "282": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        22
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (reviewing her resume and portfolio to refresh her memory on her coding experience) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Klaus Mueller": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcdd",
+      "description": "discussing the coding interview with Maria Lopez (taking notes on Isabella's performance) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "283": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (reviewing her resume and portfolio to refresh her memory on her coding experience) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "284": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        20
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (reviewing her resume and portfolio to refresh her memory on her coding experience) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "285": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (reviewing her resume and portfolio to refresh her memory on her coding experience) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "286": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (reviewing her resume and portfolio to refresh her memory on her coding experience) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "287": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (reviewing her resume and portfolio to refresh her memory on her coding experience) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "288": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (reviewing her resume and portfolio to refresh her memory on her coding experience) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "289": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (reviewing her resume and portfolio to refresh her memory on her coding experience) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "290": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (reviewing her resume and portfolio to refresh her memory on her coding experience) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "291": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (reviewing her resume and portfolio to refresh her memory on her coding experience) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "292": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        18
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (reviewing her resume and portfolio to refresh her memory on her coding experience) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "293": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        17
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (reviewing her resume and portfolio to refresh her memory on her coding experience) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "294": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (reviewing her resume and portfolio to refresh her memory on her coding experience) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "295": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (reviewing her resume and portfolio to refresh her memory on her coding experience) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "296": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (reviewing her resume and portfolio to refresh her memory on her coding experience) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "297": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (reviewing her resume and portfolio to refresh her memory on her coding experience) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "298": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (reviewing her resume and portfolio to refresh her memory on her coding experience) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "299": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcda",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (reviewing her resume and portfolio to refresh her memory on her coding experience) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "300": {},
+  "301": {},
+  "302": {},
+  "303": {},
+  "304": {},
+  "305": {},
+  "306": {},
+  "307": {},
+  "308": {},
+  "309": {},
+  "310": {},
+  "311": {},
+  "312": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83e\udd13",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (reviewing her solutions to previous coding problems to warm up her problem-solving skills) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "313": {},
+  "314": {},
+  "315": {},
+  "316": {},
+  "317": {},
+  "318": {},
+  "319": {},
+  "320": {},
+  "321": {},
+  "322": {},
+  "323": {},
+  "324": {},
+  "325": {},
+  "326": {},
+  "327": {},
+  "328": {},
+  "329": {},
+  "330": {},
+  "331": {},
+  "332": {},
+  "333": {},
+  "334": {},
+  "335": {},
+  "336": {},
+  "337": {},
+  "338": {},
+  "339": {},
+  "340": {},
+  "341": {},
+  "342": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        16
+      ],
+      "pronunciatio": "\u2615\ufe0f",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (arriving at Hobbs Cafe and greeting Klaus Mueller and Maria Lopez) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "343": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        16
+      ],
+      "pronunciatio": "\u2615\ufe0f",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (arriving at Hobbs Cafe and greeting Klaus Mueller and Maria Lopez) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "344": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        16
+      ],
+      "pronunciatio": "\u2615\ufe0f",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (arriving at Hobbs Cafe and greeting Klaus Mueller and Maria Lopez) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "345": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        16
+      ],
+      "pronunciatio": "\u2615\ufe0f",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (arriving at Hobbs Cafe and greeting Klaus Mueller and Maria Lopez) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "346": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        16
+      ],
+      "pronunciatio": "\u2615\ufe0f",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (arriving at Hobbs Cafe and greeting Klaus Mueller and Maria Lopez) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "347": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        17
+      ],
+      "pronunciatio": "\u2615\ufe0f",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (arriving at Hobbs Cafe and greeting Klaus Mueller and Maria Lopez) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "348": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        18
+      ],
+      "pronunciatio": "\u2615\ufe0f",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (arriving at Hobbs Cafe and greeting Klaus Mueller and Maria Lopez) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "349": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\u2615\ufe0f",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (arriving at Hobbs Cafe and greeting Klaus Mueller and Maria Lopez) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "350": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\u2615\ufe0f",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (arriving at Hobbs Cafe and greeting Klaus Mueller and Maria Lopez) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "351": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\u2615\ufe0f",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (arriving at Hobbs Cafe and greeting Klaus Mueller and Maria Lopez) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "352": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\u2615\ufe0f",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (arriving at Hobbs Cafe and greeting Klaus Mueller and Maria Lopez) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "353": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\u2615\ufe0f",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (arriving at Hobbs Cafe and greeting Klaus Mueller and Maria Lopez) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "354": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\u2615\ufe0f",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (arriving at Hobbs Cafe and greeting Klaus Mueller and Maria Lopez) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "355": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciatio": "\u2615\ufe0f",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (arriving at Hobbs Cafe and greeting Klaus Mueller and Maria Lopez) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "356": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        22
+      ],
+      "pronunciatio": "\u2615\ufe0f",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (arriving at Hobbs Cafe and greeting Klaus Mueller and Maria Lopez) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "357": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (explaining her approach to the coding problem given by Klaus Mueller and Maria Lopez) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "358": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (explaining her approach to the coding problem given by Klaus Mueller and Maria Lopez) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "359": {
+    "Isabella Rodriguez": {
+      "movement": [
+        78,
+        21
+      ],
+      "pronunciatio": "\ud83d\udcbb",
+      "description": "having a coding interview with Klaus Mueller and Maria Lopez at Hobbs Cafe (explaining her approach to the coding problem given by Klaus Mueller and Maria Lopez) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "360": {},
+  "361": {},
+  "362": {},
+  "363": {},
+  "364": {},
+  "365": {},
+  "366": {},
+  "367": {},
+  "368": {},
+  "369": {},
+  "370": {},
+  "371": {},
+  "372": {
+    "Klaus Mueller": {
+      "movement": [
+        73,
+        16
+      ],
+      "pronunciatio": "\ud83d\udcac",
+      "description": "discussing the coding interview with Maria Lopez (discussing Isabella's strengths and weaknesses with Maria) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    }
+  },
+  "373": {},
+  "374": {},
+  "375": {},
+  "376": {},
+  "377": {},
+  "378": {},
+  "379": {},
+  "380": {},
+  "381": {},
+  "382": {},
+  "383": {},
+  "384": {},
+  "385": {},
+  "386": {},
+  "387": {},
+  "388": {},
+  "389": {},
+  "390": {},
+  "391": {},
+  "392": {},
+  "393": {},
+  "394": {},
+  "395": {},
+  "396": {},
+  "397": {},
+  "398": {},
+  "399": {},
+  "400": {},
+  "401": {},
+  "402": {},
+  "403": {},
+  "404": {},
+  "405": {},
+  "406": {},
+  "407": {},
+  "408": {
+    "Isabella Rodriguez": {
+      "movement": [
+        77,
+        21
+      ],
+      "pronunciatio": "\ud83d\ude0c",
+      "description": "reflecting on the coding interview and reviewing feedback (taking a deep breath and calming her nerves) @ the Ville:Ryan Park's apartment:main room:bed",
+      "chat": null
+    }
+  },
+  "409": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciatio": "\ud83d\ude0c",
+      "description": "reflecting on the coding interview and reviewing feedback (taking a deep breath and calming her nerves) @ the Ville:Ryan Park's apartment:main room:bed",
+      "chat": null
+    }
+  },
+  "410": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        22
+      ],
+      "pronunciatio": "\ud83d\ude0c",
+      "description": "reflecting on the coding interview and reviewing feedback (taking a deep breath and calming her nerves) @ the Ville:Ryan Park's apartment:main room:bed",
+      "chat": null
+    }
+  },
+  "411": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciatio": "\ud83d\ude0c",
+      "description": "reflecting on the coding interview and reviewing feedback (taking a deep breath and calming her nerves) @ the Ville:Ryan Park's apartment:main room:bed",
+      "chat": null
+    }
+  },
+  "412": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        24
+      ],
+      "pronunciatio": "\ud83d\ude0c",
+      "description": "reflecting on the coding interview and reviewing feedback (taking a deep breath and calming her nerves) @ the Ville:Ryan Park's apartment:main room:bed",
+      "chat": null
+    }
+  },
+  "413": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciatio": "\ud83d\ude0c",
+      "description": "reflecting on the coding interview and reviewing feedback (taking a deep breath and calming her nerves) @ the Ville:Ryan Park's apartment:main room:bed",
+      "chat": null
+    }
+  },
+  "414": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        26
+      ],
+      "pronunciatio": "\ud83d\ude0c",
+      "description": "reflecting on the coding interview and reviewing feedback (taking a deep breath and calming her nerves) @ the Ville:Ryan Park's apartment:main room:bed",
+      "chat": null
+    }
+  },
+  "415": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        27
+      ],
+      "pronunciatio": "\ud83d\ude0c",
+      "description": "reflecting on the coding interview and reviewing feedback (taking a deep breath and calming her nerves) @ the Ville:Ryan Park's apartment:main room:bed",
+      "chat": null
+    }
+  },
+  "416": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        28
+      ],
+      "pronunciatio": "\ud83d\ude0c",
+      "description": "reflecting on the coding interview and reviewing feedback (taking a deep breath and calming her nerves) @ the Ville:Ryan Park's apartment:main room:bed",
+      "chat": null
+    }
+  },
+  "417": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        29
+      ],
+      "pronunciatio": "\ud83d\ude0c",
+      "description": "reflecting on the coding interview and reviewing feedback (taking a deep breath and calming her nerves) @ the Ville:Ryan Park's apartment:main room:bed",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        74,
+        16
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "taking a break and getting some coffee (walking to the coffee shop) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "418": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        30
+      ],
+      "pronunciatio": "\ud83d\ude0c",
+      "description": "reflecting on the coding interview and reviewing feedback (taking a deep breath and calming her nerves) @ the Ville:Ryan Park's apartment:main room:bed",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        16
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "taking a break and getting some coffee (walking to the coffee shop) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "419": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        30
+      ],
+      "pronunciatio": "\ud83d\ude0c",
+      "description": "reflecting on the coding interview and reviewing feedback (taking a deep breath and calming her nerves) @ the Ville:Ryan Park's apartment:main room:bed",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        16
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "taking a break and getting some coffee (walking to the coffee shop) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "420": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        30
+      ],
+      "pronunciatio": "\ud83d\ude0c",
+      "description": "reflecting on the coding interview and reviewing feedback (taking a deep breath and calming her nerves) @ the Ville:Ryan Park's apartment:main room:bed",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        77,
+        16
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "taking a break and getting some coffee (walking to the coffee shop) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "421": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        30
+      ],
+      "pronunciatio": "\ud83d\ude0c",
+      "description": "reflecting on the coding interview and reviewing feedback (taking a deep breath and calming her nerves) @ the Ville:Ryan Park's apartment:main room:bed",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        78,
+        16
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "taking a break and getting some coffee (walking to the coffee shop) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "422": {
+    "Isabella Rodriguez": {
+      "movement": [
+        72,
+        30
+      ],
+      "pronunciatio": "\ud83d\ude0c",
+      "description": "reflecting on the coding interview and reviewing feedback (taking a deep breath and calming her nerves) @ the Ville:Ryan Park's apartment:main room:bed",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        78,
+        17
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "taking a break and getting some coffee (walking to the coffee shop) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "423": {
+    "Isabella Rodriguez": {
+      "movement": [
+        73,
+        30
+      ],
+      "pronunciatio": "\ud83d\udc40",
+      "description": "reflecting on the coding interview and reviewing feedback (reviewing the coding interview questions and her solutions) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        78,
+        18
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "taking a break and getting some coffee (walking to the coffee shop) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "424": {
+    "Isabella Rodriguez": {
+      "movement": [
+        74,
+        30
+      ],
+      "pronunciatio": "\ud83d\udc40",
+      "description": "reflecting on the coding interview and reviewing feedback (reviewing the coding interview questions and her solutions) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "taking a break and getting some coffee (walking to the coffee shop) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "425": {
+    "Isabella Rodriguez": {
+      "movement": [
+        75,
+        30
+      ],
+      "pronunciatio": "\ud83d\udc40",
+      "description": "reflecting on the coding interview and reviewing feedback (reviewing the coding interview questions and her solutions) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "taking a break and getting some coffee (walking to the coffee shop) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "426": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        30
+      ],
+      "pronunciatio": "\ud83d\udc40",
+      "description": "reflecting on the coding interview and reviewing feedback (reviewing the coding interview questions and her solutions) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "taking a break and getting some coffee (walking to the coffee shop) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "427": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        29
+      ],
+      "pronunciatio": "\ud83d\udc40",
+      "description": "reflecting on the coding interview and reviewing feedback (reviewing the coding interview questions and her solutions) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        19
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "taking a break and getting some coffee (walking to the coffee shop) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "428": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        28
+      ],
+      "pronunciatio": "\ud83d\udc40",
+      "description": "reflecting on the coding interview and reviewing feedback (reviewing the coding interview questions and her solutions) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        20
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "taking a break and getting some coffee (walking to the coffee shop) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "429": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        27
+      ],
+      "pronunciatio": "\ud83d\udc40",
+      "description": "reflecting on the coding interview and reviewing feedback (reviewing the coding interview questions and her solutions) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        75,
+        21
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "taking a break and getting some coffee (walking to the coffee shop) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "430": {
+    "Isabella Rodriguez": {
+      "movement": [
+        76,
+        26
+      ],
+      "pronunciatio": "\ud83d\udc40",
+      "description": "reflecting on the coding interview and reviewing feedback (reviewing the coding interview questions and her solutions) @ the Ville:Isabella Rodriguez's apartment:main room:desk",
+      "chat": null
+    },
+    "Maria Lopez": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciatio": "\ud83d\udeb6\u200d\u2642",
+      "description": "taking a break and getting some coffee (walking to the coffee shop) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  }
+}

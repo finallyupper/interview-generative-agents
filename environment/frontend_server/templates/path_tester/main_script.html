@@ -132,10 +132,22 @@
 	  // see: https://labs.phaser.io/view.html?src=src/animation/single%20sprite%20sheet.js
 	  // Joon: Technically, I think this guy had the best tutorial for atlas: 
 	  //       https://www.youtube.com/watch?v=fdXcD9X4NrQ&ab_channel=MorganPage
-	  this.load.atlas("atlas", 
-	                  "https://mikewesthad.github.io/phaser-3-tilemap-blog-posts/post-1/assets/atlas/atlas.png", 
-	                  "https://mikewesthad.github.io/phaser-3-tilemap-blog-posts/post-1/assets/atlas/atlas.json");
-	}
+	//   this.load.atlas("atlas", 
+	//                   "https://mikewesthad.github.io/phaser-3-tilemap-blog-posts/post-1/assets/atlas/atlas.png", 
+	//                   "https://mikewesthad.github.io/phaser-3-tilemap-blog-posts/post-1/assets/atlas/atlas.json");
+	this.load.atlas("atlas", 
+	                  "{% static 'assets/characters/Isabella_Rodriguez.png' %}",
+						"{% static 'assets/characters/atlas.json' %}",);
+		this.load.atlas("Isabella_Rodriguez", 
+	  					"{% static 'assets/characters/Isabella_Rodriguez.png' %}",
+						"{% static 'assets/characters/Isabella_Rodriguez.json' %}",);
+      this.load.atlas("Maria_Lopez", 
+	  					"{% static 'assets/characters/Maria_Lopez.png' %}",
+						"{% static 'assets/characters/Maria_Lopez.json' %}",);
+	  this.load.atlas("Klaus_Mueller", 
+	  					"{% static 'assets/characters/Klaus_Mueller.png' %}",
+						"{% static 'assets/characters/Klaus_Mueller.json' %}",);
+    }
 
 	function create() {  
 	  const map = this.make.tilemap({ key: "map" });
@@ -219,7 +231,7 @@
 	  // The image  used for the sprite has a bit of whitespace, so I'm using 
 	  // setSize & setOffset to control the size of the player's body.
 	  player = this.physics.add.
-	                sprite(1856, 288, "atlas", "misa-front").
+	                sprite(1856, 288, "atlas", "down").
 	                setSize(30, 40).
 	                setOffset(0, 0);
 	  player.setDepth(1);
@@ -235,8 +247,9 @@
 	    let persona_name = Object.keys(spawn_tile_loc)[i];
 	    let start_pos = [spawn_tile_loc[persona_name][0] * tile_width + tile_width / 2, 
 	                     spawn_tile_loc[persona_name][1] * tile_width + tile_width];
+		let image_key = persona_name.replace(/ /g, '_'); // Converts spaces to underscores if needed
 	    let new_sprite = this.physics.add
-	                         .sprite(start_pos[0], start_pos[1], "atlas", "misa-front")
+	                         .sprite(start_pos[0], start_pos[1], image_key, `${image_key}-down`)
 	                         .setSize(30, 40)
 	                         .setOffset(0, 0);
 	    // Here, we are creating the persona and its pronunciatio sprites.
@@ -256,29 +269,39 @@
 	  // Create the player's walking animations from the texture atlas. These are
 	  // stored in the global animation manager so any sprite can access them.
 	  const anims = this.anims;
-	  anims.create({
-	    key: "misa-left-walk",
-	    frames: anims.generateFrameNames("atlas", { prefix: "misa-left-walk.", start: 0, end: 3, zeroPad: 3 }),
-	    frameRate: 4,
-	    repeat: -1 });
+	  for (let i=0; i<Object.keys(persona_names).length; i++) { 
+		let persona_name = Object.keys(persona_names)[i];
+			let persona_name_key = persona_name.replace(/ /g, '_');
+			let left_walk_name = persona_name_key + "-left-walk";
+			let right_walk_name = persona_name_key + "-right-walk";
+			let down_walk_name = persona_name_key + "-down-walk";
+			let up_walk_name = persona_name_key + "-up-walk";
 
-	  anims.create({
-	    key: "misa-right-walk",
-	    frames: anims.generateFrameNames("atlas", { prefix: "misa-right-walk.", start: 0, end: 3, zeroPad: 3 }),
-	    frameRate: 4,
-	    repeat: -1 });
+			console.log(persona_name_key, left_walk_name, "DEBUG")
+		  anims.create({
+		    key: left_walk_name,
+		    frames: anims.generateFrameNames(persona_name_key, { prefix: `${persona_name_key}-left-walk.`, start: 0, end: 3, zeroPad: 3 }),
+		    frameRate: 4,
+		    repeat: -1 });
 
-	  anims.create({
-	    key: "misa-front-walk",
-	    frames: anims.generateFrameNames("atlas", { prefix: "misa-front-walk.", start: 0, end: 3, zeroPad: 3 }),
-	    frameRate: 4,
-	    repeat: -1 });
+		  anims.create({
+		    key: right_walk_name,
+		    frames: anims.generateFrameNames(persona_name_key, { prefix: `${persona_name_key}-right-walk.`, start: 0, end: 3, zeroPad: 3 }),
+		    frameRate: 4,
+		    repeat: -1 });
 
-	  anims.create({
-	    key: "misa-back-walk",
-	    frames: anims.generateFrameNames("atlas", { prefix: "misa-back-walk.", start: 0, end: 3, zeroPad: 3 }),
-	    frameRate: 4,
-	    repeat: -1 });
+		  anims.create({
+		    key: down_walk_name,
+		    frames: anims.generateFrameNames(persona_name_key, { prefix: `${persona_name_key}-down-walk.`, start: 0, end: 3, zeroPad: 3 }),
+		    frameRate: 4,
+		    repeat: -1 });
+
+		  anims.create({
+		    key: up_walk_name,
+		    frames: anims.generateFrameNames(persona_name_key, { prefix: `${persona_name_key}-up-walk.`, start: 0, end: 3, zeroPad: 3 }),
+		    frameRate: 4,
+		    repeat: -1 });
+	  }
 	}
 
 

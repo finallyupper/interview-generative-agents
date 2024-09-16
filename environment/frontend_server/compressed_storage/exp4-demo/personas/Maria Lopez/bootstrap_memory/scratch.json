@@ -1,0 +1,299 @@
+{
+  "vision_r": 8,
+  "att_bandwidth": 8,
+  "retention": 8,
+  "curr_time": "February 13, 2023, 16:08:20",
+  "curr_tile": [
+    75,
+    21
+  ],
+  "daily_plan_req": "Maria Lopez spends more than six hours coding each day at Google, where she leads code reviews, engages in pair programming, and focuses on algorithm optimization for Google\u2019s systems. She prepares coding problems for interviews, focusing on real-time feedback and collaborative problem-solving.",
+  "name": "Maria Lopez",
+  "first_name": "Maria",
+  "last_name": "Lopez",
+  "age": 30,
+  "innate": "punctual, energetic, enthusiastic, inquisitive, and highly collaborative. Maria thrives in pair programming and loves walking candidates through coding challenges during interviews, pushing them to solve complex problems in real time.",
+  "learned": "Maria is an engineer at Google who specializes in algorithm optimization and collaborative coding sessions. During interviews, she actively engages candidates in refactoring and improving their code, emphasizing real-time feedback and code review. Maria often encourages candidates to improve efficiency and explain their reasoning while they code.",
+  "currently": "Maria will be the second interviewer for Isabella Rodriguez on February 13th, 2023, at 2 PM, following Klaus Mueller at Hobbs Cafe. She will continue the coding assessment by asking Isabella to improve the code written during Klaus\u2019s session and explore potential optimizations. Maria focuses on the candidate\u2019s ability to collaborate, optimize code, and explain their process.",
+  "lifestyle": "Maria Lopez is a night owl, so goes to bed around 3am, awakes up around 10am, eats lunch around 11am and dinner around 7pm. She likes to hang out at Hobbs Cafe if it's before 10pm.",
+  "living_area": "the Ville:Dorm for Oak Hill College:Maria Lopez's room",
+  "concept_forget": 100,
+  "daily_reflection_time": 180,
+  "daily_reflection_size": 5,
+  "overlap_reflect_th": 4,
+  "kw_strg_event_reflect_th": 10,
+  "kw_strg_thought_reflect_th": 9,
+  "recency_w": 1,
+  "relevance_w": 1,
+  "importance_w": 1,
+  "recency_decay": 0.99,
+  "importance_trigger_max": 150,
+  "importance_trigger_curr": 141,
+  "importance_ele_n": 8,
+  "thought_count": 5,
+  "daily_req": [
+    "wake up and complete the morning routine at 10:00 am",
+    "have a light breakfast at 10:30 am",
+    "check and respond to any urgent work emails from 11:00 am to 11:30 am",
+    "collaborate with colleagues on a coding project from 11:30 am to 1:00 pm",
+    "have lunch at 1:00 pm",
+    "prepare for the interview with Isabella Rodriguez at 1:30 pm",
+    "conduct the coding assessment with Isabella from 2:00 pm to 3:30 pm",
+    "review and provide feedback on the code with Isabella until 4:00 pm"
+  ],
+  "f_daily_schedule": [
+    [
+      "sleeping",
+      600
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "checking and responding to urgent work emails",
+      60
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "preparing for the interview with Isabella Rodriguez",
+      60
+    ],
+    [
+      "conducting the coding assessment with Isabella Rodriguez (on the way to greeting Isabella and introducing herself)",
+      0
+    ],
+    [
+      "conducting the coding assessment with Isabella Rodriguez (conversing about Maria and Klaus discussing Maria's preparation for the interview with Isabella and Klaus offering assistance during the coding assessment process.)",
+      10
+    ],
+    [
+      "conducting the coding assessment with Isabella Rodriguez (explaining the coding assessment and its objectives)",
+      10
+    ],
+    [
+      "conducting the coding assessment with Isabella Rodriguez (giving Isabella the coding problem to solve)",
+      5
+    ],
+    [
+      "conducting the coding assessment with Isabella Rodriguez (on the way to observing and taking notes as Isabella codes)",
+      0
+    ],
+    [
+      "conducting the coding assessment with Isabella Rodriguez (conversing about two friends, Isabella Rodriguez and Maria Lopez, discussing interview preparation strategies and tips on staying calm during coding challenges.)",
+      10
+    ],
+    [
+      "conducting the coding assessment with Isabella Rodriguez (observing and taking notes as Isabella codes)",
+      20
+    ],
+    [
+      "conducting the coding assessment with Isabella Rodriguez (asking Isabella questions and providing real-time feedback)",
+      5
+    ],
+    [
+      "conducting the coding assessment with Isabella Rodriguez (wrapping up the coding assessment and thanking Isabella for her time)",
+      5
+    ],
+    [
+      "reviewing and providing feedback on the code with Isabella",
+      55
+    ],
+    [
+      "taking a break and getting some coffee (walking to the coffee shop)",
+      5
+    ],
+    [
+      "taking a break and getting some coffee (ordering her coffee)",
+      5
+    ],
+    [
+      "taking a break and getting some coffee (waiting for her coffee)",
+      10
+    ],
+    [
+      "taking a break and getting some coffee (checking her emails)",
+      10
+    ],
+    [
+      "taking a break and getting some coffee (chatting with a colleague)",
+      10
+    ],
+    [
+      "taking a break and getting some coffee (enjoying her coffee)",
+      10
+    ],
+    [
+      "taking a break and getting some coffee (reviewing her notes for the team meeting)",
+      10
+    ],
+    [
+      "attending a team meeting to discuss project progress and updates (reviewing the agenda for the team meeting)",
+      10
+    ],
+    [
+      "attending a team meeting to discuss project progress and updates (preparing any necessary materials or presentations for the meeting)",
+      20
+    ],
+    [
+      "attending a team meeting to discuss project progress and updates (checking in with her team members to see if they have any updates or concerns to discuss)",
+      15
+    ],
+    [
+      "attending a team meeting to discuss project progress and updates (actively participating in the meeting, providing updates on her own progress and listening to updates from her team members)",
+      60
+    ],
+    [
+      "attending a team meeting to discuss project progress and updates (taking notes during the meeting)",
+      15
+    ],
+    [
+      "attending a team meeting to discuss project progress and updates (discussing any potential roadblocks or issues with her team members and brainstorming solutions)",
+      30
+    ],
+    [
+      "attending a team meeting to discuss project progress and updates (finalizing action items and next steps for the team)",
+      15
+    ],
+    [
+      "attending a team meeting to discuss project progress and updates (sending out a summary email to the team after the meeting)",
+      10
+    ],
+    [
+      "attending a team meeting to discuss project progress and updates (wrapping up any loose ends or tasks related to the meeting)",
+      5
+    ],
+    [
+      "attending a team dinner at Hobbs Cafe",
+      120
+    ],
+    [
+      "attending a team dinner at Hobbs Cafe until 10:00 pm",
+      60
+    ],
+    [
+      "finishing up any remaining work tasks for the day and getting ready for bed",
+      60
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ],
+    [
+      "sleeping",
+      0
+    ]
+  ],
+  "f_daily_schedule_hourly_org": [
+    [
+      "sleeping",
+      600
+    ],
+    [
+      "waking up and completing her morning routine",
+      60
+    ],
+    [
+      "checking and responding to urgent work emails",
+      60
+    ],
+    [
+      "having lunch",
+      60
+    ],
+    [
+      "preparing for the interview with Isabella Rodriguez",
+      60
+    ],
+    [
+      "conducting the coding assessment with Isabella Rodriguez",
+      60
+    ],
+    [
+      "reviewing and providing feedback on the code with Isabella",
+      60
+    ],
+    [
+      "taking a break and getting some coffee",
+      60
+    ],
+    [
+      "attending a team meeting to discuss project progress and updates",
+      180
+    ],
+    [
+      "attending a team dinner at Hobbs Cafe",
+      120
+    ],
+    [
+      "attending a team dinner at Hobbs Cafe until 10:00 pm",
+      60
+    ],
+    [
+      "finishing up any remaining work tasks for the day and getting ready for bed",
+      60
+    ]
+  ],
+  "act_address": "the Ville:Hobbs Cafe:cafe:cafe customer seating",
+  "act_start_time": "February 13, 2023, 16:04:00",
+  "act_duration": 5,
+  "act_description": "taking a break and getting some coffee (walking to the coffee shop)",
+  "act_pronunciatio": "\ud83d\udeb6\u200d\u2642",
+  "act_event": [
+    "Maria Lopez",
+    "walk",
+    "coffee shop"
+  ],
+  "act_obj_description": "being occupied by Maria Lopez",
+  "act_obj_pronunciatio": "\ud83d\udc69\ud83c\udffd",
+  "act_obj_event": [
+    "cafe customer seating",
+    "occupy",
+    "Maria Lopez"
+  ],
+  "chatting_with": null,
+  "chat": null,
+  "chatting_with_buffer": {
+    "Klaus Mueller": 399,
+    "Isabella Rodriguez": 501
+  },
+  "chatting_end_time": null,
+  "act_path_set": true,
+  "planned_path": [
+    [
+      77,
+      21
+    ],
+    [
+      78,
+      21
+    ]
+  ]
+}
