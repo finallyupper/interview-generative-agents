@@ -1,8 +1,9 @@
 # Simulation of Coding Interview Using Generative Agents
 ### 📍Situation : Coding interview will be held on February 13th, 2023, from *2 PM to 3 PM* at Hobbs Cafe
-<div style="text-align: center;">
-  <img src="./exp4-clip-for-gif.gif" alt="exp4-clip-for-gif" style="width: 80%;">
-</div>
+
+<p align="center" width="100%">
+  <img src="./exp4-clip-for-gif.gif" alt="exp4-clip-for-gif" style="width: 90%;">
+</p>
   
 - Based on simulation `base_the_ville_isabella_maria_klaus` 
 - Compressed storage and got demo from [http://localhost:8000/demo/exp4/1/10/#](http://localhost:8000/demo/exp4/1/10/#).
